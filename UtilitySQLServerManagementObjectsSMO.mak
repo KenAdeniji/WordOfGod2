@@ -1,0 +1,14 @@
+all: UtilitySQLServerManagementObjectsSMO.exe UtilitySQLServerManagementObjectsSMO.dll SQLServerManagementObjectsSMOPage.aspx.cs.dll
+
+UtilitySQLServerManagementObjectsSMO.exe: UtilitySQLServerManagementObjectsSMO.cs UtilityClass.cs UtilityCollection.cs UtilityCommandLineArgument.cs UtilityDatabase.cs UtilityDebug.cs UtilityDirectory.cs UtilityEventLog.cs UtilityException.cs  UtilityFile.cs UtilityImpersonate.cs UtilityIO.cs UtilityJavaScript.cs UtilityProcess.cs UtilityProperty.cs UtilityXml.cs
+ csc /define:DEBUG /debug:full /doc:XmlDocumentation\UtilitySQLServerManagementObjectsSMODocumentation.xml /main:WordEngineering.UtilitySQLServerManagementObjectsSMO /out:UtilitySQLServerManagementObjectsSMO.exe /reference:"D:\Program Files\Microsoft SQL Server\90\SDK\Assemblies\Microsoft.SqlServer.ConnectionInfo.dll" /reference:"D:\Program Files\Microsoft SQL Server\90\SDK\Assemblies\Microsoft.SqlServer.Smo.dll" /target:exe UtilitySQLServerManagementObjectsSMO.cs UtilityClass.cs UtilityCollection.cs UtilityCommandLineArgument.cs UtilityDatabase.cs UtilityDebug.cs UtilityDirectory.cs UtilityEventLog.cs UtilityException.cs  UtilityFile.cs UtilityImpersonate.cs UtilityIO.cs UtilityJavaScript.cs UtilityProcess.cs UtilityProperty.cs UtilityXml.cs
+
+UtilitySQLServerManagementObjectsSMO.dll: UtilitySQLServerManagementObjectsSMO.cs UtilityClass.cs UtilityCollection.cs UtilityCommandLineArgument.cs UtilityDatabase.cs UtilityDebug.cs UtilityDirectory.cs UtilityEventLog.cs UtilityException.cs  UtilityFile.cs UtilityImpersonate.cs UtilityIO.cs UtilityJavaScript.cs UtilityProcess.cs UtilityProperty.cs UtilityXml.cs
+ csc /define:DEBUG /debug:full /doc:XmlDocumentation\UtilitySQLServerManagementObjectsSMODocumentation.xml /out:bin\UtilitySQLServerManagementObjectsSMO.dll /reference:"D:\Program Files\Microsoft SQL Server\90\SDK\Assemblies\Microsoft.SqlServer.ConnectionInfo.dll" /reference:"D:\Program Files\Microsoft SQL Server\90\SDK\Assemblies\Microsoft.SqlServer.Smo.dll" /target:library UtilitySQLServerManagementObjectsSMO.cs UtilityClass.cs UtilityCollection.cs UtilityCommandLineArgument.cs UtilityDatabase.cs UtilityDebug.cs UtilityDirectory.cs UtilityEventLog.cs UtilityException.cs  UtilityFile.cs UtilityImpersonate.cs UtilityIO.cs UtilityJavaScript.cs UtilityProcess.cs UtilityProperty.cs UtilityXml.cs
+
+SQLServerManagementObjectsSMOPage.aspx.cs.dll: SQLServerManagementObjectsSMOPage.aspx.cs bin\UtilitySQLServerManagementObjectsSMO.dll
+ csc /define:DEBUG /debug:full /doc:XmlDocumentation\SQLServerManagementObjectsSMOPageDocumentation.xml /out:bin\SQLServerManagementObjectsSMOPage.aspx.cs.dll /reference:bin\UtilitySQLServerManagementObjectsSMO.dll /reference:bin\UtilityWebControl.dll /target:library SQLServerManagementObjectsSMOPage.aspx.cs
+
+Clean:
+ DEL XmlDocumentation /F /S /Q
+ RD XmlDocumentation
