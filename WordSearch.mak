@@ -1,0 +1,7 @@
+all: WordSearch.exe WordSearchPage.aspx.cs.dll
+
+WordSearch.exe: WordSearch.cs BibleBookTitle.cs ScriptureReference.cs ScriptureReferenceBookChapterVersePrePost.cs UtilityClass.cs UtilityCollection.cs UtilityDatabase.cs UtilityDirectory.cs UtilityEventLog.cs UtilityFile.cs UtilityXml.cs
+ csc /debug:full /doc:..\WordOfGodDocumentation\WordSearchXmlDocumentation.xml /main:WordEngineering.WordSearch /target:exe WordSearch.cs BibleBookClassification.cs BibleBookTitle.cs ScriptureReference.cs ScriptureReferenceBookChapterVersePrePost.cs UtilityClass.cs UtilityCollection.cs UtilityDatabase.cs UtilityDirectory.cs UtilityEventLog.cs UtilityFile.cs UtilityXml.cs WordSearch.cs
+
+WordSearchPage.aspx.cs.dll: BibleBookClassification.cs BibleBookTitle.cs ScriptureReference.cs ScriptureReferenceBookChapterVersePrePost.cs UtilityClass.cs UtilityCollection.cs UtilityDatabase.cs UtilityDirectory.cs UtilityEventLog.cs UtilityFile.cs UtilityXml.cs WordSearch.cs
+ csc /doc:..\WordOfGodDocumentation\WordSearchPageXmlDocumentation.xml /out:bin\WordSearchPage.aspx.cs.dll /target:library BibleBookClassification.cs BibleBookTitle.cs ScriptureReference.cs ScriptureReferenceBookChapterVersePrePost.cs WordSearch.cs WordSearchPage.aspx.cs UtilityClass.cs UtilityCollection.cs UtilityDatabase.cs UtilityDirectory.cs UtilityEventLog.cs UtilityFile.cs UtilityXml.cs

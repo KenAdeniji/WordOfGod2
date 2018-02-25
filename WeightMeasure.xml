@@ -1,0 +1,202 @@
+<?xml version="1.0" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='WeightMeasure.xslt'?>
+<WeightMeasure>
+  <WeightMeasure>
+    <Dated>2003-05-15T08:20:00.0000000-07:00</Dated>
+    <SequenceOrderId>9</SequenceOrderId>
+    <BiblicalUnit>Bath</BiblicalUnit>
+    <BiblicalConversion>1 Ephah</BiblicalConversion>
+    <MeasureUnit>Capacity - Wet Measure</MeasureUnit>
+    <MetricUnit>6 gallons</MetricUnit>
+    <AmericanUnit>22 liters</AmericanUnit>
+    <ScriptureReference>Ezekiel 45:11, Ezekiel 45:14</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Ezekiel+45%3A11%2C+Ezekiel+45%3A14&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+    <Commentary />
+  </WeightMeasure>
+  <WeightMeasure>
+    <Dated>2003-05-15T08:20:00.0000000-07:00</Dated>
+    <SequenceOrderId>14</SequenceOrderId>
+    <BiblicalUnit>Beka</BiblicalUnit>
+    <BiblicalConversion>10 Gerahs</BiblicalConversion>
+    <MeasureUnit>Weight</MeasureUnit>
+    <MetricUnit>1/5 ounce</MetricUnit>
+    <AmericanUnit>5.5 grams</AmericanUnit>
+    <Commentary />
+  </WeightMeasure>
+  <WeightMeasure>
+    <Dated>2003-05-15T08:20:00.0000000-07:00</Dated>
+    <SequenceOrderId>1</SequenceOrderId>
+    <BiblicalUnit>Cab</BiblicalUnit>
+    <BiblicalConversion>1/18 Ephah</BiblicalConversion>
+    <MeasureUnit>Capacity - Dry Measure</MeasureUnit>
+    <MetricUnit>1 quart</MetricUnit>
+    <AmericanUnit>1 liter</AmericanUnit>
+    <ScriptureReference>2 Kings 6:25</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=2+Kings+6%3A25&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+    <Commentary />
+  </WeightMeasure>
+  <WeightMeasure>
+    <Dated>2003-05-15T08:20:00.0000000-07:00</Dated>
+    <SequenceOrderId>12</SequenceOrderId>
+    <BiblicalUnit>Cubit</BiblicalUnit>
+    <MeasureUnit>Length</MeasureUnit>
+    <MetricUnit>18 inches</MetricUnit>
+    <AmericanUnit>0.5 meter</AmericanUnit>
+    <ScriptureReference>Genesis 6:16, Exodus 25:10, Exodus 25:17, Exodus 25:23, Exodus 26:13, Exodus 26:16, Exodus 30:2, Exodus 36:21, Exodus 37:1, Exodus 37:6, Exodus 37:10, Deuteronomy 3:11, Judges 3:16, 1 Kings 7:31, 1 Kings 7:32, 1 Kings 7:35, Ezekiel 40:5, Ezekiel 40:12, Ezekiel 40:42, Ezekiel 43:13, Ezekiel 43:17, Matthew 6:27</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Genesis+6%3A16%2C+Exodus+25%3A10%2C+Exodus+25%3A17%2C+Exodus+25%3A23%2C+Exodus+26%3A13%2C+Exodus+26%3A16%2C+Exodus+30%3A2%2C+Exodus+36%3A21%2C+Exodus+37%3A1%2C+Exodus+37%3A6%2C+Exodus+37%3A10%2C+Deuteronomy+3%3A11%2C+Judges+3%3A16%2C+1+Kings+7%3A31%2C+1+Kings+7%3A32%2C+1+Kings+7%3A35%2C+Ezekiel+40%3A5%2C+Ezekiel+40%3A12%2C+Ezekiel+40%3A42%2C+Ezekiel+43%3A13%2C+Ezekiel+43%3A17%2C+Matthew+6%3A27&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+    <Commentary />
+  </WeightMeasure>
+  <WeightMeasure>
+    <Dated>2003-05-15T08:20:00.0000000-07:00</Dated>
+    <SequenceOrderId>3</SequenceOrderId>
+    <BiblicalUnit>Ephah</BiblicalUnit>
+    <BiblicalConversion>10 Omers</BiblicalConversion>
+    <MeasureUnit>Capacity - Dry Measure</MeasureUnit>
+    <MetricUnit>3/5 bushel</MetricUnit>
+    <AmericanUnit>22 liters</AmericanUnit>
+    <ScriptureReference>Leviticus 5:11, Leviticus 6:20, Numbers 5:15, Numbers 28:5, Judges 6:19, Ruth 2:17, 1 Samuel 1:24, 1 Samuel 17:17, Ezekiel 45:11, Ezekiel 45:13, Ezekiel 45:24, Ezekiel 46:5, Ezekiel 46:7, Ezekiel 46:11, Amos 8:5, Zechariah 5:6, Zechariah 5:9</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Leviticus+5%3A11%2C+Leviticus+6%3A20%2C+Numbers+5%3A15%2C+Numbers+28%3A5%2C+Judges+6%3A19%2C+Ruth+2%3A17%2C+1+Samuel+1%3A24%2C+1+Samuel+17%3A17%2C+Ezekiel+45%3A11%2C+Ezekiel+45%3A13%2C+Ezekiel+45%3A24%2C+Ezekiel+46%3A5%2C+Ezekiel+46%3A7%2C+Ezekiel+46%3A11%2C+Amos+8%3A5%2C+Zechariah+5%3A6%2C+Zechariah+5%3A9&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+    <Commentary />
+  </WeightMeasure>
+  <WeightMeasure>
+    <Dated>2003-05-15T08:20:00.0000000-07:00</Dated>
+    <SequenceOrderId>13</SequenceOrderId>
+    <BiblicalUnit>Gerah</BiblicalUnit>
+    <MeasureUnit>Weight</MeasureUnit>
+    <MetricUnit>1/50 ounce</MetricUnit>
+    <AmericanUnit>0.6 grams</AmericanUnit>
+    <Commentary />
+  </WeightMeasure>
+  <WeightMeasure>
+    <Dated>2003-05-15T08:20:00.0000000-07:00</Dated>
+    <SequenceOrderId>11</SequenceOrderId>
+    <BiblicalUnit>Handbreath</BiblicalUnit>
+    <MeasureUnit>Length</MeasureUnit>
+    <MetricUnit>3 inches</MetricUnit>
+    <AmericanUnit>8 centimeters</AmericanUnit>
+    <Commentary />
+  </WeightMeasure>
+  <WeightMeasure>
+    <Dated>2003-05-15T08:20:00.0000000-07:00</Dated>
+    <SequenceOrderId>7</SequenceOrderId>
+    <BiblicalUnit>Hin</BiblicalUnit>
+    <BiblicalConversion>1/6 Bath</BiblicalConversion>
+    <MeasureUnit>Capacity - Wet Measure</MeasureUnit>
+    <MetricUnit>4 quarts</MetricUnit>
+    <AmericanUnit>4 liters</AmericanUnit>
+    <ScriptureReference>Exodus 29:40, Numbers 15:4, Numbers 15:5, Numbers 15:6, Numbers 15:7, Numbers 15:9, Numbers 15:10, Numbers 28:5, Numbers 28:7, Numbers 28:14, Ezekiel 45:24, Ezekiel 46:5, Ezekiel 46:7, Ezekiel 46:11, Ezekiel 46:14</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Exodus+29%3A40%2C+Numbers+15%3A4%2C+Numbers+15%3A5%2C+Numbers+15%3A6%2C+Numbers+15%3A7%2C+Numbers+15%3A9%2C+Numbers+15%3A10%2C+Numbers+28%3A5%2C+Numbers+28%3A7%2C+Numbers+28%3A14%2C+Ezekiel+45%3A24%2C+Ezekiel+46%3A5%2C+Ezekiel+46%3A7%2C+Ezekiel+46%3A11%2C+Ezekiel+46%3A14&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+    <Commentary />
+  </WeightMeasure>
+  <WeightMeasure>
+    <Dated>2003-05-15T08:20:00.0000000-07:00</Dated>
+    <SequenceOrderId>2</SequenceOrderId>
+    <BiblicalUnit>Homer</BiblicalUnit>
+    <BiblicalConversion>Cor, 10 Ephahs</BiblicalConversion>
+    <MeasureUnit>Capacity - Dry Measure</MeasureUnit>
+    <MetricUnit>6 bushels</MetricUnit>
+    <AmericanUnit>220 liters</AmericanUnit>
+    <ScriptureReference>Leviticus 27:16, Isaiah 5:10, Ezekiel 45:13, Ezekiel 45:14, Hosea 3:2</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Leviticus+27%3A16%2C+Isaiah+5%3A10%2C+Ezekiel+45%3A13%2C+Ezekiel+45%3A14%2C+Hosea+3%3A2&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+    <Commentary />
+  </WeightMeasure>
+  <WeightMeasure>
+    <Dated>2003-05-15T08:20:00.0000000-07:00</Dated>
+    <SequenceOrderId>4</SequenceOrderId>
+    <BiblicalUnit>Lethek</BiblicalUnit>
+    <BiblicalConversion>5 Ephahs</BiblicalConversion>
+    <MeasureUnit>Capacity - Dry Measure</MeasureUnit>
+    <MetricUnit>3 bushels</MetricUnit>
+    <AmericanUnit>110 liters</AmericanUnit>
+    <Commentary />
+  </WeightMeasure>
+  <WeightMeasure>
+    <Dated>2003-05-15T08:20:00.0000000-07:00</Dated>
+    <SequenceOrderId>8</SequenceOrderId>
+    <BiblicalUnit>Log</BiblicalUnit>
+    <BiblicalConversion>1/72 Bath</BiblicalConversion>
+    <MeasureUnit>Capacity - Wet Measure</MeasureUnit>
+    <MetricUnit>1/3 quart</MetricUnit>
+    <AmericanUnit>0.3 liter</AmericanUnit>
+    <ScriptureReference>Leviticus 14:10, Leviticus 14:12, Leviticus 14:15, Leviticus 14:21, Leviticus 14:24</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Leviticus+14%3A10%2C+Leviticus+14%3A12%2C+Leviticus+14%3A15%2C+Leviticus+14%3A21%2C+Leviticus+14%3A24&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+    <Commentary />
+  </WeightMeasure>
+  <WeightMeasure>
+    <Dated>2003-05-15T08:20:00.0000000-07:00</Dated>
+    <SequenceOrderId>17</SequenceOrderId>
+    <BiblicalUnit>Mina</BiblicalUnit>
+    <BiblicalConversion>50 Shekels</BiblicalConversion>
+    <MeasureUnit>Weight</MeasureUnit>
+    <MetricUnit>1 1/4 pounds</MetricUnit>
+    <AmericanUnit>0.6 kilograms</AmericanUnit>
+    <Commentary />
+  </WeightMeasure>
+  <WeightMeasure>
+    <Dated>2003-05-15T08:20:00.0000000-07:00</Dated>
+    <SequenceOrderId>5</SequenceOrderId>
+    <BiblicalUnit>Omer</BiblicalUnit>
+    <BiblicalConversion>1/10 Ephah</BiblicalConversion>
+    <MeasureUnit>Capacity - Dry Measure</MeasureUnit>
+    <MetricUnit>2 quarts</MetricUnit>
+    <AmericanUnit>2 liters</AmericanUnit>
+    <ScriptureReference>Exodus 16:16, Exodus 16:32, Exodus 16:33, Exodus 16:36</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Exodus+16%3A16%2C+Exodus+16%3A32%2C+Exodus+16%3A33%2C+Exodus+16%3A36&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+    <Commentary />
+  </WeightMeasure>
+  <WeightMeasure>
+    <Dated>2003-05-15T08:20:00.0000000-07:00</Dated>
+    <SequenceOrderId>15</SequenceOrderId>
+    <BiblicalUnit>Pim</BiblicalUnit>
+    <BiblicalConversion>2/3 Shekel</BiblicalConversion>
+    <MeasureUnit>Weight</MeasureUnit>
+    <MetricUnit>1/3 ounce</MetricUnit>
+    <AmericanUnit>7.5 grams</AmericanUnit>
+    <Commentary />
+  </WeightMeasure>
+  <WeightMeasure>
+    <Dated>2003-05-15T08:20:00.0000000-07:00</Dated>
+    <SequenceOrderId>6</SequenceOrderId>
+    <BiblicalUnit>Seah</BiblicalUnit>
+    <BiblicalConversion>1/3 Ephah</BiblicalConversion>
+    <MeasureUnit>Capacity - Dry Measure</MeasureUnit>
+    <MetricUnit>7 quarts</MetricUnit>
+    <AmericanUnit>7.3 liters</AmericanUnit>
+    <Commentary />
+  </WeightMeasure>
+  <WeightMeasure>
+    <Dated>2003-05-15T08:20:00.0000000-07:00</Dated>
+    <SequenceOrderId>16</SequenceOrderId>
+    <BiblicalUnit>Shekel</BiblicalUnit>
+    <BiblicalConversion>2 Bekas</BiblicalConversion>
+    <MeasureUnit>Weight</MeasureUnit>
+    <MetricUnit>2/5 ounce</MetricUnit>
+    <AmericanUnit>11.5 grams</AmericanUnit>
+    <ScriptureReference>Genesis 24:22, Exodus 30:13, Exodus 30:24, Exodus 38:24, Exodus 38:25, Exodus 38:26, Leviticus 5:15, Leviticus 27:3, Leviticus 27:25, Numbers 3:47, Numbers 3:50, Numbers 7:13, Numbers 7:19, Numbers 7:25, Numbers 7:31, Numbers 7:37, Numbers 7:43, Numbers 7:49, Numbers 7:55, Numbers 7:61, Numbers 7:67, Numbers 7:73, Numbers 7:79, Numbers 7:85, Numbers 7:86, Numbers 18:16, 1 Samuel 9:8, Nehemiah 10:32, Ezekiel 45:1, Amos 8:5</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Genesis+24%3A22%2C+Exodus+30%3A13%2C+Exodus+30%3A24%2C+Exodus+38%3A24%2C+Exodus+38%3A25%2C+Exodus+38%3A26%2C+Leviticus+5%3A15%2C+Leviticus+27%3A3%2C+Leviticus+27%3A25%2C+Numbers+3%3A47%2C+Numbers+3%3A50%2C+Numbers+7%3A13%2C+Numbers+7%3A19%2C+Numbers+7%3A25%2C+Numbers+7%3A31%2C+Numbers+7%3A37%2C+Numbers+7%3A43%2C+Numbers+7%3A49%2C+Numbers+7%3A55%2C+Numbers+7%3A61%2C+Numbers+7%3A67%2C+Numbers+7%3A73%2C+Numbers+7%3A79%2C+Numbers+7%3A85%2C+Numbers+7%3A86%2C+Numbers+18%3A16%2C+1+Samuel+9%3A8%2C+Nehemiah+10%3A32%2C+Ezekiel+45%3A1%2C+Amos+8%3A5&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+    <Commentary />
+  </WeightMeasure>
+  <WeightMeasure>
+    <Dated>2003-05-15T08:20:00.0000000-07:00</Dated>
+    <SequenceOrderId>10</SequenceOrderId>
+    <BiblicalUnit>Span</BiblicalUnit>
+    <MeasureUnit>Length</MeasureUnit>
+    <MetricUnit>9 inches</MetricUnit>
+    <AmericanUnit>23 centimeters</AmericanUnit>
+    <ScriptureReference>Exodus 28:16, Exodus 39:9, Lamentations 2:20</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Exodus+28%3A16%2C+Exodus+39%3A9%2C+Lamentations+2%3A20&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+    <Commentary />
+  </WeightMeasure>
+  <WeightMeasure>
+    <Dated>2003-05-15T08:20:00.0000000-07:00</Dated>
+    <SequenceOrderId>18</SequenceOrderId>
+    <BiblicalUnit>Talent</BiblicalUnit>
+    <BiblicalConversion>60 Minas</BiblicalConversion>
+    <MeasureUnit>Weight</MeasureUnit>
+    <MetricUnit>75 pounds</MetricUnit>
+    <AmericanUnit>34 kilograms</AmericanUnit>
+    <ScriptureReference>Exodus 25:39, Exodus 37:24, Exodus 38:24, Exodus 38:25, Exodus 38:27, Exodus 38:29, 2 Samuel 12:30, 1 Kings 9:14, 1 Kings 9:28, 1 Kings 10:10, 1 Kings 10:14, 1 Kings 16:24, 1 Kings 20:39, 2 Kings 5:5, 2 Kings 5:22, 2 Kings 5:23, 2 Kings 15:19, 2 Kings 18:14, 2 Kings 23:33, 1 Chronicles 19:6, 1 Chronicles 20:2, 1 Chronicles 22:14, 1 Chronicles 29:4, 1 Chronicles 29:7, 2 Chronicles 3:8, 2 Chronicles 8:18, 2 Chronicles 9:9, 2 Chronicles 9:13, 2 Chronicles 25:6, 2 Chronicles 25:9, 2 Chronicles 27:5, 2 Chronicles 36:3, Ezra 7:22, Ezra 8:26, Esther 3:9, Zechariah 5:7, Matthew 18:24, Matthew 25:15, Matthew 25:16, Matthew 25:20, Matthew 25:22, Matthew 25:24, Matthew 25:25, Matthew 25:28, Revelation 16:21</ScriptureReference>
+    <ScriptureReferenceURI>http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Exodus+25%3A39%2C+Exodus+37%3A24%2C+Exodus+38%3A24%2C+Exodus+38%3A25%2C+Exodus+38%3A27%2C+Exodus+38%3A29%2C+2+Samuel+12%3A30%2C+1+Kings+9%3A14%2C+1+Kings+9%3A28%2C+1+Kings+10%3A10%2C+1+Kings+10%3A14%2C+1+Kings+16%3A24%2C+1+Kings+20%3A39%2C+2+Kings+5%3A5%2C+2+Kings+5%3A22%2C+2+Kings+5%3A23%2C+2+Kings+15%3A19%2C+2+Kings+18%3A14%2C+2+Kings+23%3A33%2C+1+Chronicles+19%3A6%2C+1+Chronicles+20%3A2%2C+1+Chronicles+22%3A14%2C+1+Chronicles+29%3A4%2C+1+Chronicles+29%3A7%2C+2+Chronicles+3%3A8%2C+2+Chronicles+8%3A18%2C+2+Chronicles+9%3A9%2C+2+Chronicles+9%3A13%2C+2+Chronicles+25%3A6%2C+2+Chronicles+25%3A9%2C+2+Chronicles+27%3A5%2C+2+Chronicles+36%3A3%2C+Ezra+7%3A22%2C+Ezra+8%3A26%2C+Esther+3%3A9%2C+Zechariah+5%3A7%2C+Matthew+18%3A24%2C+Matthew+25%3A15%2C+Matthew+25%3A16%2C+Matthew+25%3A20%2C+Matthew+25%3A22%2C+Matthew+25%3A24%2C+Matthew+25%3A25%2C+Matthew+25%3A28%2C+Revelation+16%3A21&amp;section=0&amp;version=nkj&amp;language=en</ScriptureReferenceURI>
+    <Commentary />
+  </WeightMeasure>
+</WeightMeasure>

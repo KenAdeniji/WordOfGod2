@@ -1,0 +1,34 @@
+Windows Data Type .NET Data Type 
+BOOL, BOOLEAN Boolean or Int32 
+BSTR String 
+BYTE Byte 
+CHAR Char 
+DOUBLE Double 
+DWORD/LPDWORD Int32 or UInt32 
+FLOAT Single 
+HANDLE (and all other handle types, such as HFONT and HMENU) IntPtr, UintPtr, or HandleRef 
+HRESULT Int32 or UInt32 
+INT Int32 
+LANGID Int16 or UInt16 
+LCID Int32 or UInt32 
+LONG Int32 
+LPARAM IntPtr, UintPtr, or Object 
+LPCSTR String 
+LPCTSTR String 
+LPCWSTR String 
+LPSTR String or StringBuilder* 
+LPTSTR String or StringBuilder 
+LPWSTR String or StringBuilder 
+LPVOID IntPtr, UintPtr, or Object 
+LRESULT IntPtr 
+SAFEARRAY .NET array type 
+SHORT Int16 
+TCHAR Char 
+UCHAR SByte 
+UINT Int32 or UInt32 
+ULONG Int32 or UInt32 
+VARIANT Object 
+VARIANT_BOOL Boolean 
+WCHAR Char 
+WORD Int16 or UInt16 
+WPARAM IntPtr, UintPtr, or Object

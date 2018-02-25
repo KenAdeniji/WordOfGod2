@@ -1,0 +1,136 @@
+<?xml version="1.0" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='WindowsNETDataType.xslt'?>
+<WordEngineering>
+  <WindowsNETDataType>
+    <WindowsDataType>BOOL, BOOLEAN</WindowsDataType>
+    <NETDataType>Boolean or Int32</NETDataType>
+  </WindowsNETDataType>
+  <WindowsNETDataType>
+    <WindowsDataType>BSTR</WindowsDataType>
+    <NETDataType>String</NETDataType>
+  </WindowsNETDataType>
+  <WindowsNETDataType>
+    <WindowsDataType>BYTE</WindowsDataType>
+    <NETDataType>Byte</NETDataType>
+  </WindowsNETDataType>
+  <WindowsNETDataType>
+    <WindowsDataType>CHAR</WindowsDataType>
+    <NETDataType>Char</NETDataType>
+  </WindowsNETDataType>
+  <WindowsNETDataType>
+    <WindowsDataType>DOUBLE</WindowsDataType>
+    <NETDataType>Double </NETDataType>
+  </WindowsNETDataType>
+  <WindowsNETDataType>
+    <WindowsDataType>DWORD/LPDWORD</WindowsDataType>
+    <NETDataType>Int32 or UInt32</NETDataType>
+  </WindowsNETDataType>
+  <WindowsNETDataType>
+    <WindowsDataType>FLOAT</WindowsDataType>
+    <NETDataType>Single</NETDataType>
+  </WindowsNETDataType>
+  <WindowsNETDataType>
+    <WindowsDataType>HANDLE (and all other handle types, such as HFONT and HMENU)</WindowsDataType>
+    <NETDataType>IntPtr, UintPtr, or HandleRef</NETDataType>
+  </WindowsNETDataType>
+  <WindowsNETDataType>
+    <WindowsDataType>HRESULT</WindowsDataType>
+    <NETDataType>Int32 or UInt32</NETDataType>
+  </WindowsNETDataType>
+  <WindowsNETDataType>
+    <WindowsDataType>INT</WindowsDataType>
+    <NETDataType> Int32</NETDataType>
+  </WindowsNETDataType>
+  <WindowsNETDataType>
+    <WindowsDataType>LANGID</WindowsDataType>
+    <NETDataType>Int16 or UInt16</NETDataType>
+  </WindowsNETDataType>
+  <WindowsNETDataType>
+    <WindowsDataType>LCID</WindowsDataType>
+    <NETDataType>Int32 or UInt32</NETDataType>
+  </WindowsNETDataType>
+  <WindowsNETDataType>
+    <WindowsDataType>LONG</WindowsDataType>
+    <NETDataType>Int32 </NETDataType>
+  </WindowsNETDataType>
+  <WindowsNETDataType>
+    <WindowsDataType>LPARAM</WindowsDataType>
+    <NETDataType>IntPtr, UintPtr, or Object</NETDataType>
+  </WindowsNETDataType>
+  <WindowsNETDataType>
+    <WindowsDataType>LPCSTR</WindowsDataType>
+    <NETDataType>String</NETDataType>
+  </WindowsNETDataType>
+  <WindowsNETDataType>
+    <WindowsDataType>LPCTSTR</WindowsDataType>
+    <NETDataType>String</NETDataType>
+  </WindowsNETDataType>
+  <WindowsNETDataType>
+    <WindowsDataType>LPCWSTR</WindowsDataType>
+    <NETDataType>String</NETDataType>
+  </WindowsNETDataType>
+  <WindowsNETDataType>
+    <WindowsDataType>LPSTR</WindowsDataType>
+    <NETDataType>String or StringBuilder* </NETDataType>
+  </WindowsNETDataType>
+  <WindowsNETDataType>
+    <WindowsDataType>LPTSTR</WindowsDataType>
+    <NETDataType>String or StringBuilder* </NETDataType>
+  </WindowsNETDataType>
+  <WindowsNETDataType>
+    <WindowsDataType>LPVOID</WindowsDataType>
+    <NETDataType>IntPtr, UintPtr, or Object </NETDataType>
+  </WindowsNETDataType>
+  <WindowsNETDataType>
+    <WindowsDataType>LPWSTR</WindowsDataType>
+    <NETDataType>String or StringBuilder* </NETDataType>
+  </WindowsNETDataType>
+  <WindowsNETDataType>
+    <WindowsDataType>LRESULT</WindowsDataType>
+    <NETDataType>IntPtr</NETDataType>
+  </WindowsNETDataType>
+  <WindowsNETDataType>
+    <WindowsDataType>SAFEARRAY</WindowsDataType>
+    <NETDataType>.NET array type</NETDataType>
+  </WindowsNETDataType>
+  <WindowsNETDataType>
+    <WindowsDataType>SHORT</WindowsDataType>
+    <NETDataType>Int16</NETDataType>
+  </WindowsNETDataType>
+  <WindowsNETDataType>
+    <WindowsDataType>TCHAR</WindowsDataType>
+    <NETDataType>Char</NETDataType>
+  </WindowsNETDataType>
+  <WindowsNETDataType>
+    <WindowsDataType>UCHAR</WindowsDataType>
+    <NETDataType>SByte</NETDataType>
+  </WindowsNETDataType>
+  <WindowsNETDataType>
+    <WindowsDataType>UINT</WindowsDataType>
+    <NETDataType>Int32 or UInt32</NETDataType>
+  </WindowsNETDataType>
+  <WindowsNETDataType>
+    <WindowsDataType>ULONG</WindowsDataType>
+    <NETDataType>Int32 or UInt32</NETDataType>
+  </WindowsNETDataType>
+  <WindowsNETDataType>
+    <WindowsDataType>VARIANT</WindowsDataType>
+    <NETDataType>Object</NETDataType>
+  </WindowsNETDataType>
+  <WindowsNETDataType>
+    <WindowsDataType>VARIANT_BOOL</WindowsDataType>
+    <NETDataType>Boolean</NETDataType>
+  </WindowsNETDataType>
+  <WindowsNETDataType>
+    <WindowsDataType>WCHAR</WindowsDataType>
+    <NETDataType>Char</NETDataType>
+  </WindowsNETDataType>
+  <WindowsNETDataType>
+    <WindowsDataType>WORD</WindowsDataType>
+    <NETDataType>Int16 or UInt16</NETDataType>
+  </WindowsNETDataType>
+  <WindowsNETDataType>
+    <WindowsDataType>WPARAM IntPtr, UintPtr, or Object</WindowsDataType>
+    <NETDataType>IntPtr, UintPtr, or Object</NETDataType>
+  </WindowsNETDataType>
+</WordEngineering>

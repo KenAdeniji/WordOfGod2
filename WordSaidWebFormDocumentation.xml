@@ -1,0 +1,368 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WordSaidPage.aspx.cs</name>
+    </assembly>
+    <members>
+        <member name="T:WordEngineering.JehovahRophe">
+            <summary>JehovahRophe.</summary>
+        </member>
+        <member name="T:WordEngineering.WordSaid">
+            <summary>WordSaid.</summary>
+        </member>
+        <member name="M:WordEngineering.WordSaid.#ctor(System.Int32,System.String,System.String,System.DateTime,System.Guid)">
+            <summary>Constructor.</summary>
+        </member>
+        <member name="M:WordEngineering.WordSaid.DataSetInitialize">
+            <summary>DataSetInitialize().</summary>
+        </member>
+        <member name="P:WordEngineering.WordSaid.Commentary">
+            <summary>Commentary.</summary>
+            <value>A value tag is used to describe the property value</value>
+        </member>
+        <member name="P:WordEngineering.WordSaid.Dated">
+            <summary>Dated.</summary>
+            <value>A value tag is used to describe the property value</value>
+        </member>
+        <member name="P:WordEngineering.WordSaid.ScriptureReference">
+            <summary>Scripture Reference.</summary>
+            <value>A value tag is used to describe the property value</value>
+        </member>
+        <member name="P:WordEngineering.WordSaid.SequenceOrderId">
+            <summary>Sequence Order Id.</summary>
+            <value>A value tag is used to describe the property value</value>
+        </member>
+        <member name="P:WordEngineering.WordSaid.UniqueId">
+            <summary>Unique Identity.</summary>
+            <value>A value tag is used to describe the property value</value>
+        </member>
+        <member name="M:WordEngineering.JehovahRophe.#ctor(System.Int32,System.String,System.String,System.DateTime,System.Guid)">
+            <summary>Constructor.</summary>
+        </member>
+        <member name="T:WordEngineering.UtilityDateTimeParse">
+            <summary>Utility DateTime Parse.</summary>
+        </member>
+        <member name="M:WordEngineering.UtilityDateTimeParse.DateTimeParse(System.String)">
+            <summary>DateTime Parse.</summary>
+        </member>
+        <member name="T:WordEngineering.UtilityEventLog">
+            <summary>The Event Log Utility.</summary>
+            <remarks>Event Log.</remarks>
+        </member>
+        <member name="F:WordEngineering.UtilityEventLog.EventLogName">
+            <summary>The name of the event log.</summary>
+        </member>
+        <member name="F:WordEngineering.UtilityEventLog.EventLogMachineName">
+            <summary>The machine name.</summary>  
+        </member>
+        <member name="F:WordEngineering.UtilityEventLog.EventLogSource">
+            <summary>The event source.</summary>  
+        </member>
+        <member name="M:WordEngineering.UtilityEventLog.Main(System.String[])">
+            <summary>The entry point for the application.</summary>
+            <param name="argv">A list of command line arguments</param>
+        </member>
+        <member name="M:WordEngineering.UtilityEventLog.WriteEntry(System.String,System.String,System.String,System.String,System.Diagnostics.EventLogEntryType)">
+            <summary>Write entry.</summary>
+            <param name="log">The event log name.</param>
+            <param name="machineName">The name of the event log.</param>
+            <param name="source">The name of the event source.</param>  
+            <param name="messageText">The message text.</param>
+            <param name="eventLogEntryType">The event log entry type, for example, Error, FailureAudit, Information, SuccessAudit, Warning.</param>  
+        </member>
+        <member name="M:WordEngineering.UtilityEventLog.WriteEntryOleDbErrorCollection(System.Data.OleDb.OleDbException)">
+            <summary>Write the OleDb Error Collection.</summary>
+            <param name="exception">The OLEDBException.</param>    
+            <code>
+             <example>
+              string          databaseConnectionString = "Provider=SQLOLEDB;Data Source=localhost;Initial Catalog=WordEngineering;Integrated Security=SSPI;";
+              string          exceptionMessage         = null;
+              OleDbConnection oleDbConnection          = null;
+              try
+              {
+               oleDbConnection = new OleDbConnection(databaseConnectionString);
+               oleDbConnection.Open();
+              }//try
+              catch (OleDbException exception)
+              {
+               exceptionMessage = WriteEntryOleDbErrorCollection(exception);
+               System.Console.WriteLine("OLEDbException: {0}", exceptionMessage);
+              }
+             </example>  
+            </code>  
+        </member>
+        <member name="M:WordEngineering.UtilityEventLog.WriteEntryOleDbErrorCollection(System.String,System.String,System.String,System.Data.OleDb.OleDbException)">
+            <summary>Write the OleDb Error Collection.</summary>
+            <param name="log">The event log name, for example, Application, Security, System, DNS Server.</param>
+            <param name="machineName">The machine name, for example, . for this particular machine name.</param>  
+            <param name="source">The source of the event, for example, SQLServerAgent.</param>  
+            <param name="exception">The OLEDBException.</param>    
+            <code>
+             <example>
+              string          databaseConnectionString = "Provider=SQLOLEDB;Data Source=localhost;Initial Catalog=WordEngineering;Integrated Security=SSPI;";
+              string          exceptionMessage         = null;
+              OleDbConnection oleDbConnection          = null;
+              try
+              {
+               oleDbConnection = new OleDbConnection(databaseConnectionString);
+               oleDbConnection.Open();
+              }//try
+              catch (OleDbException exception)
+              {
+               exceptionMessage = WriteEntryOleDbErrorCollection( "Application", ".", "WordEngineering", exception );
+               System.Console.WriteLine("OLEDbException: {0}", exceptionMessage);
+              }
+             </example>  
+            </code>  
+        </member>
+        <member name="T:WordEngineering.UtilityDatabase">
+            <summary>Utility Database will manage database connections.</summary>
+            <remarks>
+             The methods will include DatabaseConnectionInitialize(), DatabaseConnectionHouseKeeping().
+            </remarks>
+        </member>
+        <member name="M:WordEngineering.UtilityDatabase.Main(System.String[])">
+            <summary>The entry point for the application.</summary>
+            <param name="argv">A list of command line arguments</param>
+        </member>
+        <member name="M:WordEngineering.UtilityDatabase.DatabaseConnectionInitialize(System.String,System.String@)">
+            <summary>Initializes a new instance of the OleDbConnection class.</summary>
+            <code>
+             <example>
+              string          databaseConnectionString = "Provider=SQLOLEDB;Data Source=localhost;Initial Catalog=WordEngineering;Integrated Security=SSPI;";
+              string          exceptionMessage         = null;
+              OleDbConnection oleDbConnection          = null;
+              oleDbConnection = UtilityDatabase.DatabaseConnectionInitialize( databaseConnectionString, ref exceptionMessage );
+             </example>  
+            </code>  
+        </member>
+        <member name="M:WordEngineering.UtilityDatabase.DatabaseConnectionHouseKeeping(System.Data.OleDb.OleDbConnection,System.String@)">
+            <summary>Closes the connection to the data source. This is the preferred method of closing any open connection.</summary>
+            <code>
+             <example>
+              string          databaseConnectionString = "Provider=SQLOLEDB;Data Source=localhost;Initial Catalog=WordEngineering;Integrated Security=SSPI;";
+              string          exceptionMessage         = null;
+              OleDbConnection oleDbConnection          = null;
+              oleDbConnection = UtilityDatabase.DatabaseConnectionInitialize( databaseConnectionString, ref exceptionMessage );
+              UtilityDatabase.DatabaseConnectionHouseKeeping( oleDbConnection, ref exceptionMessage );
+             </example>  
+            </code>  
+        </member>
+        <member name="M:WordEngineering.UtilityDatabase.DisplayOleDbErrorCollection(System.Data.OleDb.OleDbException)">
+            <summary>Gets a collection of one or more OleDbError objects that give detailed information about exceptions generated by the .NET Framework Data Provider for OLE DB.</summary>
+            <code>
+             <example>
+              string          databaseConnectionString = "Provider=SQLOLEDB;Data Source=localhost;Initial Catalog=WordEngineering;Integrated Security=SSPI;";
+              string          exceptionMessage         = null;
+              OleDbConnection oleDbConnection          = null;
+              try
+              {
+               oleDbConnection = new OleDbConnection(databaseConnectionString);
+               oleDbConnection.Open();
+              }//try
+              catch (OleDbException exception)
+              {
+               exceptionMessage = DisplayOleDbErrorCollection( exception );
+               System.Console.WriteLine("OLEDbException: {0}", exceptionMessage);
+              }
+             </example>  
+            </code>  
+        </member>
+        <member name="M:WordEngineering.UtilityDatabase.DatabaseQuery(System.String,System.String@,System.String)">
+            <summary>Executes the query, and returns the first column of the first row in the resultset returned by the query. Extra columns or rows are ignored.</summary>
+            <code>
+             <example>
+              string          databaseConnectionString = "Provider=SQLOLEDB;Data Source=localhost;Initial Catalog=WordEngineering;Integrated Security=SSPI;";
+              string          exceptionMessage         = null;
+              string          commandText              = "SELECT 'Language: ' + @@LANGUAGE + CHAR(13) + CHAR(10) + 'Server Name: ' + @@ServerName + CHAR(13) + CHAR(10) + 'Service Name: ' + @@ServiceName + CHAR(13) + CHAR(10) + 'Version: ' + @@Version";
+              object          commandReturn            = null;
+              commandReturn  = UtilityDatabase.DatabaseQuery( databaseConnectionString, ref exceptionMessage, commandText );
+              System.Console.WriteLine("Query: {0}\n{1}", commandText, commandReturn);
+             </example>  
+            </code>  
+        </member>
+        <member name="M:WordEngineering.UtilityDatabase.DatabaseQuery(System.String,System.String@,System.String,System.Data.CommandType)">
+            <summary>Executes the query, and returns the first column of the first row in the resultset returned by the query. Extra columns or rows are ignored.</summary>
+            <code>
+             <example>
+              string          databaseConnectionString = "Provider=SQLOLEDB;Data Source=localhost;Initial Catalog=WordEngineering;Integrated Security=SSPI;";
+              string          exceptionMessage         = null;
+              string          commandText              = "master..xp_msver";
+              object          commandReturn            = null;
+              commandReturn  = UtilityDatabase.DatabaseQuery( databaseConnectionString, ref exceptionMessage, commandText, CommandType.StoredProcedure );
+              System.Console.WriteLine("Query: {0}\n{1}", commandText, commandReturn);
+             </example>  
+            </code>  
+        </member>
+        <member name="M:WordEngineering.UtilityDatabase.DatabaseQuery(System.String,System.String@,System.Data.DataSet@,System.String,System.String,System.Data.CommandType)">
+            <summary>Executes the query, and returns the first column of the first row in the resultset returned by the query. Extra columns or rows are ignored.</summary>
+            <param name="databaseConnectionString">The database connection string, "Provider=SQLOLEDB;Data Source=localhost;Initial Catalog=master;Integrated Security=SSPI;"</param>
+            <param name="exceptionMessage">The exception message.</param>
+            <param name="dataSet">The data set.</param>
+            <param name="dataTableName">The data table name.</param>
+            <param name="commandText">The command text.</param>
+            <param name="commandType">The command type.</param>
+            <code>
+             <example>
+              string      databaseConnectionString = "Provider=SQLOLEDB;Data Source=localhost;Initial Catalog=master;Integrated Security=SSPI;";
+              string      exceptionMessage         = null;
+              string      commandText              = "master..xp_msver";
+              CommandType commandType              = "CommandType.StoredProcedure";  
+              DataSet     dataSet                  = null;
+              string      dataTableName            = "dataTableName"; 
+              UtilityDatabase.DatabaseQuery
+              ( 
+                   databaseConnectionString, 
+               ref exceptionMessage, 
+                   dataSet, 
+                   dataTableName,
+                   commandText, 
+                   CommandType.StoredProcedure 
+              );
+             </example>  
+            </code>  
+        </member>
+        <member name="M:WordEngineering.UtilityDatabase.DatabaseQuery(System.String,System.String@,System.Data.IDataReader@,System.Int32@,System.String,System.Data.CommandType)">
+            <summary>Executes the query, and returns the first column of the first row in the resultset returned by the query. Extra columns or rows are ignored.</summary>
+            <param name="databaseConnectionString">The database connection string, "Provider=SQLOLEDB;Data Source=localhost;Initial Catalog=master;Integrated Security=SSPI;"</param>
+            <param name="exceptionMessage">The exception message.</param>
+            <param name="iDataReader">The data reader.</param>
+            <param name="rowCount">Returns the number of rows affected by the last statement.</param>
+            <param name="commandText">The command text.</param>
+            <param name="commandType">The command type.</param>
+            <code>
+             <example>
+              string          databaseConnectionString = "Provider=SQLOLEDB;Data Source=localhost;Initial Catalog=master;Integrated Security=SSPI;";
+              string          exceptionMessage         = null;
+              string          commandText              = "master..xp_msver";
+              IDataReader     iDataReader              = null;
+              CommandType     commandType              = "CommandType.StoredProcedure";  
+              UtilityDatabase.DatabaseQuery
+              ( 
+                   databaseConnectionString, 
+               ref exceptionMessage, 
+                   oleDbDataReader,
+                   commandText, 
+                   CommandType.StoredProcedure 
+              );
+             </example>  
+            </code>  
+        </member>
+        <member name="M:WordEngineering.UtilityDatabase.OleDbInfoMessage(System.Object,System.Data.OleDb.OleDbInfoMessageEventArgs)">
+            <summary>The information message event occurs when a data source sends warnings and information messages.</summary>
+            <param args="sender">The data source.</param>    
+            <param args="args">A collection of messages from the data source.</param>    
+            <code>
+             <example>
+            <code>
+             <example>
+              string databaseConnectionString = "Provider=SQLOLEDB;Data Source=localhost;Initial Catalog=WordEngineering;Integrated Security=SSPI;";
+              OleDbConnection oleDbConnection = null;
+              oleDbConnection = new OleDbConnection(databaseConnectionString);
+              oleDbConnection.StateChange += new StateChangeEventHandler(OnOleDbStateChange);
+              oleDbConnection.Open();
+              oleDbConnection.Close();
+              }//try
+              catch (OleDbException exception)
+              {
+               System.Console.WriteLine("OLEDbException: {0}", exception.Message);
+              }
+              catch (Exception exception)
+              {
+               System.Console.WriteLine("Exception: {0}", exception.Message);
+              }
+             </example>  
+            </code>  
+             </example>  
+            </code>  
+        </member>
+        <member name="M:WordEngineering.UtilityDatabase.OnOleDbStateChange(System.Object,System.Data.StateChangeEventArgs)">
+            <summary>The StateChange event occurs when the state of a Connection changes.</summary>
+            <param name="sender">The data source.</param>  
+            <param name="args">The current and original state.</param>    
+            <code>
+             <example>
+              string databaseConnectionString = "Provider=SQLOLEDB;Data Source=localhost;Initial Catalog=WordEngineering;Integrated Security=SSPI;";
+              OleDbConnection oleDbConnection = null;
+              oleDbConnection = new OleDbConnection(databaseConnectionString);
+              oleDbConnection.InfoMessage += new OleDbInfoMessageEventHandler(OleDbInfoMessage);
+              oleDbConnection.Open();
+              oleDbConnection.Close();
+              }//try
+              catch (OleDbException exception)
+              {
+               System.Console.WriteLine("OLEDbException: {0}", exception.Message);
+              }
+              catch (Exception exception)
+              {
+               System.Console.WriteLine("Exception: {0}", exception.Message);
+              }
+             </example>  
+            </code>  
+        </member>
+        <member name="T:WordEngineering.UtilityXml">
+            <summary>UtilityXml</summary>
+            <remarks>UtilityXml.</remarks>
+        </member>
+        <member name="M:WordEngineering.UtilityXml.XmlDocumentNodeInnerText(System.String,System.String@,System.String,System.String@)">
+            <summary>Read a particular XmlNode's outer text.</summary>
+            <param name="filenameXml">XML filename.</param>
+            <param name="exceptionMessage">Exception Message.</param>  
+            <param name="xPathExpression">XPath expression.</param>    
+            <param name="defaultSetting">Default setting.</param>      
+        </member>
+        <member name="M:WordEngineering.UtilityXml.Main(System.String[])">
+            <summary>The entry point for the application.</summary>
+            <param name="argv">A list of command line arguments</param>
+        </member>
+        <member name="T:WordEngineering.WordSaidPage">
+            <summary>WordSaid page.</summary>
+            <remarks>WordSaid page.</remarks>
+        </member>
+        <member name="F:WordEngineering.WordSaidPage.XPathDatabaseConnectionString">
+            <summary>The database connection string.</summary>
+        </member>
+        <member name="F:WordEngineering.WordSaidPage.HtmlInputHiddenDocumentUniqueId">
+            <summary>The document unique Id.</summary>
+        </member>
+        <member name="F:WordEngineering.WordSaidPage.TextBoxDocumentDated">
+            <summary>The document dated.</summary>
+        </member>
+        <member name="F:WordEngineering.WordSaidPage.TextBoxDocumentTitle">
+            <summary>The document title.</summary>
+        </member>
+        <member name="F:WordEngineering.WordSaidPage.databaseConnectionString">
+            <summary>The database connection string.</summary>
+        </member>
+        <member name="F:WordEngineering.WordSaidPage.filenameConfigurationXml">
+            <summary>The configuration XML filename.</summary>
+        </member>
+        <member name="F:WordEngineering.WordSaidPage.serverMapPath">
+            <summary>The server map path.</summary>
+        </member>
+        <member name="M:WordEngineering.WordSaidPage.ButtonReset_Click(System.Object,System.EventArgs)">
+            <summary>ButtonReset_Click().</summary>
+        </member>
+        <member name="M:WordEngineering.WordSaidPage.ButtonSubmit_Click(System.Object,System.EventArgs)">
+            <summary>ButtonSubmit_Click().</summary>
+        </member>
+        <member name="M:WordEngineering.WordSaidPage.Page_Load(System.Object,System.EventArgs)">
+            <summary>Page Load.</summary>
+        </member>
+        <member name="M:WordEngineering.WordSaidPage.PageReset">
+            <summary>Page Reset.</summary>  
+        </member>
+        <member name="M:WordEngineering.WordSaidPage.PageSubmit">
+            <summary>Page Submit.</summary>  
+        </member>
+        <member name="P:WordEngineering.WordSaidPage.DocumentDated">
+            <summary>DocumentDated.</summary>
+        </member>
+        <member name="P:WordEngineering.WordSaidPage.DocumentTitle">
+            <summary>DocumentTitle.</summary>
+        </member>
+        <member name="P:WordEngineering.WordSaidPage.DocumentUniqueId">
+            <summary>DocumentUniqueId.</summary>
+        </member>
+    </members>
+</doc>
