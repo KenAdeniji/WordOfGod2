@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>UtilityCollection</name>
+    </assembly>
+    <members>
+        <member name="T:WordEngineering.UtilityCollection">
+            <summary>UtilityCollection will offer collection services.</summary>
+            <remarks>UtilityCollection will offer collection services.</remarks>
+        </member>
+        <member name="F:WordEngineering.UtilityCollection.ElementSeparator">
+            <summary>The element separator.</summary>
+        </member>
+        <member name="M:WordEngineering.UtilityCollection.Main(System.String[])">
+            <summary>The entry point for the application.</summary>
+            <param name="argv">A list of command line arguments</param>
+        </member>
+        <member name="M:WordEngineering.UtilityCollection.ToString(System.Collections.IEnumerable)">
+            <summary>Concatenate index and values</summary>
+            <param name="list">Supports a simple iteration over a collection.</param>   
+            <code>
+             <example>
+              ArrayList arrayListBibleBook = new ArrayList();
+              arrayListBibleBook.Add("Genesis");
+              arrayListBibleBook.Add("Exodus");
+              arrayListBibleBook.Add("Leveticus");
+              arrayListBibleBook.Add("Numbers");
+              arrayListBibleBook.Add("Deuteronomy");   
+              System.Console.WriteLine("Bible Books Collection: {0}", UtilityCollection.ToString(arrayListBibleBook));
+             </example>  
+            </code>  
+        </member>
+        <member name="M:WordEngineering.UtilityCollection.IndexOf(System.String[][],System.String)">
+            <summary>Returns the index of the first occurrence of a value in a two-dimensional Array.</summary>
+            <param name="array">The array.</param>
+            <param name="key">The key.</param>  
+        </member>
+        <member name="M:WordEngineering.UtilityCollection.IndexOf(System.String[][],System.String,System.Int32,System.Int32)">
+            <summary>Returns the index of the first occurrence of a value in a two-dimensional Array.</summary>
+            <param name="array">The array.</param>
+            <param name="key">The key.</param>  
+            <param name="rankKey">The array dimension's key.</param>    
+            <param name="rankValue">The array dimension's value.</param>      
+        </member>
+        <member name="M:WordEngineering.UtilityCollection.NameValueCollectionExtract(System.Collections.Specialized.NameValueCollection,System.String[]@,System.String[][]@)">
+            <summary>NameValueCollection: Extract the key and value.</summary>
+            <param name="nameValueCollection">The name value collection.</param>
+            <param name="nameValueCollectionKey">The name value collection key.</param>
+            <param name="nameValueCollectionValue">The name value collection value.</param>  
+        </member>
+    </members>
+</doc>
