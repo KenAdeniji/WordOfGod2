@@ -1,0 +1,1069 @@
+<?xml version="1.0" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='ViewContact.xslt'?>
+<ViewContact>
+  <ViewContact>
+    <ContactDated>2003-03-16T00:00:00.0000000-08:00</ContactDated>
+    <ContactSequenceOrderId>1</ContactSequenceOrderId>
+    <ContactCompany>St. James Episcopal Church
+</ContactCompany>
+    <StreetAddressAddressLine1>Thornton Avenue at Cabrillo Terrace
+</StreetAddressAddressLine1>
+    <StreetAddressCity>Fremont</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94537</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>510-797-1492</TelephoneTelephoneNo>
+    <InternetAddressURI>secretary@st-james.fremont.ca.us</InternetAddressURI>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-03-16T00:00:00.0000000-08:00</ContactDated>
+    <ContactSequenceOrderId>1</ContactSequenceOrderId>
+    <ContactCompany>St. James Episcopal Church
+</ContactCompany>
+    <StreetAddressAddressLine1>Thornton Avenue at Cabrillo Terrace
+</StreetAddressAddressLine1>
+    <StreetAddressCity>Fremont</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94537</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>510-797-1492</TelephoneTelephoneNo>
+    <InternetAddressURI>http://www.st-james.fremont.ca.us</InternetAddressURI>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-04-10T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>2</ContactSequenceOrderId>
+    <ContactCompany>Food4Less 39966 Cedar Blvd Newark 94560 CA French Baguettes.</ContactCompany>
+    <StreetAddressAddressLine1>39966 Cedar Blvd</StreetAddressAddressLine1>
+    <StreetAddressCity>Newark</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94560</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>510-651-3663</TelephoneTelephoneNo>
+    <InternetAddressURI>http://www.food4less.com/customize.asp?content=f4l_ca_newark.html</InternetAddressURI>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-04-18T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>3</ContactSequenceOrderId>
+    <ContactCompany>Saint Edward's Catholic Church
+</ContactCompany>
+    <StreetAddressAddressLine1>5788 Thornton Avenue
+</StreetAddressAddressLine1>
+    <StreetAddressCity>Newark</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94560</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>510-797-0241</TelephoneTelephoneNo>
+    <InternetAddressURI>http://www.rc.net/oakland/saintedward/</InternetAddressURI>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-04-18T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>4</ContactSequenceOrderId>
+    <ContactCompany>Alameda County Library: Newark</ContactCompany>
+    <StreetAddressAddressLine1>6300 Civic Terrace Avenue</StreetAddressAddressLine1>
+    <StreetAddressCity>Newark</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94560</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>510-795-2627 </TelephoneTelephoneNo>
+    <InternetAddressURI>http://www.aclibrary.org/branches/nwk/newarkhome.asp</InternetAddressURI>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-04-19T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>5</ContactSequenceOrderId>
+    <ContactCompany>Permis - Permit Que no 1600 167 Contenu - Filling Remourrance - Filling 100% Polyester Devant - Front 70% / Polyester 30% Cotton/Coton Dos - Back 70% / Polyester 30% Cotton/Coton Garnitures Exclues - Trim Excluded Fabrique Aux Etats - Unis Made in U.S.A.</ContactCompany>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-04-19T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>6</ContactSequenceOrderId>
+    <ContactCompany>American Mood By Thomaston No Iron Percale King 50% Polyester 50% Cotton Thomaston Mills Inc. Thomaston GA 30265.</ContactCompany>
+    <StreetAddressAddressLine1>Thomaston Mills Inc.</StreetAddressAddressLine1>
+    <StreetAddressCity>Thomaston</StreetAddressCity>
+    <StreetAddressState>GA</StreetAddressState>
+    <StreetAddressZipCode>30265</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <InternetAddressURI>http://thomaston.com</InternetAddressURI>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-04-19T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>7</ContactSequenceOrderId>
+    <ContactCompany>Nomura</ContactCompany>
+    <StreetAddressAddressLine1>40 Broderick Road</StreetAddressAddressLine1>
+    <StreetAddressCity>Burlingame</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94010</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>650-692-5457</TelephoneTelephoneNo>
+    <InternetAddressURI>https://www.nomura.com</InternetAddressURI>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-04-19T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>8</ContactSequenceOrderId>
+    <ContactCompany>36 Maria Berta Classic Biscuits / Galletas Clasicas Original Maria Cookies from Spain Net Weight / Peso Neto: 7 oz (200g) Product of Spain / Producto De Espana Manufactured By/Fabricado Por: Grupo Siro CTRA Burgos-Portugal, KM. 84 34200 Venta De Banos (Palencia) Spain. ISBN: 0 85644 00099 9.</ContactCompany>
+    <StreetAddressAddressLine1>Fabricado Por: Grupo Siro CTRA</StreetAddressAddressLine1>
+    <StreetAddressCity>Venta De Banos</StreetAddressCity>
+    <StreetAddressState>Palencia</StreetAddressState>
+    <StreetAddressZipCode>34200</StreetAddressZipCode>
+    <StreetAddressCountry>Spain</StreetAddressCountry>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-04-19T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>9</ContactSequenceOrderId>
+    <ContactCompany>Islamic Society of East Bay (ISEB)</ContactCompany>
+    <StreetAddressAddressLine1>33330 Peace Terrace</StreetAddressAddressLine1>
+    <StreetAddressCity>Fremont</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94555</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>510-429-4732</TelephoneTelephoneNo>
+    <InternetAddressURI>http://www.iseb.org</InternetAddressURI>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-04-19T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>9</ContactSequenceOrderId>
+    <ContactCompany>Islamic Society of East Bay (ISEB)</ContactCompany>
+    <StreetAddressAddressLine1>33330 Peace Terrace</StreetAddressAddressLine1>
+    <StreetAddressCity>Fremont</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94555</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>510-429-4732</TelephoneTelephoneNo>
+    <InternetAddressURI>iseb_info@yahoo.com</InternetAddressURI>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-04-19T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>10</ContactSequenceOrderId>
+    <ContactCompany>Medeira Discount Liquors</ContactCompany>
+    <StreetAddressAddressLine1>35233-A Newark Boulevard</StreetAddressAddressLine1>
+    <StreetAddressCity>Newark</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94560</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-09-26T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>11</ContactSequenceOrderId>
+    <ContactFirstName>Cyanna</ContactFirstName>
+    <ContactLastName>Salvador</ContactLastName>
+    <ContactCompany>Campus Crusade for Christ at California State University Hayward (CSUH)</ContactCompany>
+    <TheWordSequenceOrderId>155</TheWordSequenceOrderId>
+    <TheWordTitle>Ife. This is the Love that I have given You that I have shared with You, today.</TheWordTitle>
+    <TelephoneTelephoneNo>510-538-1655</TelephoneTelephoneNo>
+    <InternetAddressURI>http://www.csuhcrusade.org</InternetAddressURI>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-09-26T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>11</ContactSequenceOrderId>
+    <ContactFirstName>Cyanna</ContactFirstName>
+    <ContactLastName>Salvador</ContactLastName>
+    <ContactCompany>Campus Crusade for Christ at California State University Hayward (CSUH)</ContactCompany>
+    <TheWordSequenceOrderId>155</TheWordSequenceOrderId>
+    <TheWordTitle>Ife. This is the Love that I have given You that I have shared with You, today.</TheWordTitle>
+    <TelephoneTelephoneNo>510-538-1655</TelephoneTelephoneNo>
+    <InternetAddressURI>cyannasalvador@hotmail.com </InternetAddressURI>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-10-07T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>12</ContactSequenceOrderId>
+    <ContactCompany>Washington High School</ContactCompany>
+    <StreetAddressAddressLine1>38442 Fremont Boulevard</StreetAddressAddressLine1>
+    <StreetAddressCity>Fremont</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode />
+    <StreetAddressCountry>USA</StreetAddressCountry>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-04-19T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>13</ContactSequenceOrderId>
+    <ContactCompany>Rumi Bookstore</ContactCompany>
+    <StreetAddressAddressLine1>4050B Peralta Boulevard</StreetAddressAddressLine1>
+    <StreetAddressCity>Fremont</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94536</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>510-744-3692</TelephoneTelephoneNo>
+    <InternetAddressURI>http://www.rumibookstore.com</InternetAddressURI>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-04-20T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>14</ContactSequenceOrderId>
+    <ContactCompany>Templo Betania Assembly of God</ContactCompany>
+    <StreetAddressAddressLine1>4350 Hansen Avenue</StreetAddressAddressLine1>
+    <StreetAddressCity>Fremont</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94536</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>510-797-0170</TelephoneTelephoneNo>
+    <InternetAddressURI>http://www.templobetania.org</InternetAddressURI>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-04-20T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>15</ContactSequenceOrderId>
+    <ContactCompany>The Light of Buddha Temple</ContactCompany>
+    <StreetAddressAddressLine1>632 Oak Street. The intersection of Oak Street 700 and 7th Street 100</StreetAddressAddressLine1>
+    <StreetAddressCity>Oakland</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode />
+    <StreetAddressCountry>USA</StreetAddressCountry>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-04-20T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>16</ContactSequenceOrderId>
+    <ContactCompany>Oakland Rose Garden</ContactCompany>
+    <StreetAddressAddressLine1>The intersection of Jean Street 700 and Jean Street 699 </StreetAddressAddressLine1>
+    <StreetAddressCity>Newark</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94560</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-04-20T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>17</ContactSequenceOrderId>
+    <ContactCompany>Oakland Main Library</ContactCompany>
+    <StreetAddressAddressLine1>125 14th Street</StreetAddressAddressLine1>
+    <StreetAddressCity>Oakland</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94612</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <InternetAddressURI>http://www.oaklandlibrary.org</InternetAddressURI>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-04-21T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>18</ContactSequenceOrderId>
+    <ContactFirstName>Odell</ContactFirstName>
+    <ContactLastName>Jordan</ContactLastName>
+    <ContactCompany>Communications &amp; Power Industries</ContactCompany>
+    <StreetAddressAddressLine1>20263 Times Avenue</StreetAddressAddressLine1>
+    <StreetAddressCity>Hayward</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94541</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>510-886-1600</TelephoneTelephoneNo>
+    <InternetAddressURI>odell.jordan@eimac.cpii.com</InternetAddressURI>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-04-21T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>18</ContactSequenceOrderId>
+    <ContactFirstName>Odell</ContactFirstName>
+    <ContactLastName>Jordan</ContactLastName>
+    <ContactCompany>Communications &amp; Power Industries</ContactCompany>
+    <StreetAddressAddressLine1>20263 Times Avenue</StreetAddressAddressLine1>
+    <StreetAddressCity>Hayward</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94541</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>510-919-3152</TelephoneTelephoneNo>
+    <InternetAddressURI>odell.jordan@eimac.cpii.com</InternetAddressURI>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-04-21T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>18</ContactSequenceOrderId>
+    <ContactFirstName>Odell</ContactFirstName>
+    <ContactLastName>Jordan</ContactLastName>
+    <ContactCompany>Communications &amp; Power Industries</ContactCompany>
+    <StreetAddressAddressLine1>20263 Times Avenue</StreetAddressAddressLine1>
+    <StreetAddressCity>Hayward</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94541</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>650-592-1221 Ext. 2434</TelephoneTelephoneNo>
+    <InternetAddressURI>odell.jordan@eimac.cpii.com</InternetAddressURI>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-04-24T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>19</ContactSequenceOrderId>
+    <ContactCompany>Tokyo-Express Teriyaki House Japanese Restaurant</ContactCompany>
+    <StreetAddressAddressLine1>660 Sacremento Street (Between Kearney and Montgomery)</StreetAddressAddressLine1>
+    <StreetAddressCity>San Francisco</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94111</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>415-956-3040</TelephoneTelephoneNo>
+    <InternetAddressURI>http://www.tokyoexpresslunch.com</InternetAddressURI>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-04-24T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>19</ContactSequenceOrderId>
+    <ContactCompany>Tokyo-Express Teriyaki House Japanese Restaurant</ContactCompany>
+    <StreetAddressAddressLine1>660 Sacremento Street (Between Kearney and Montgomery)</StreetAddressAddressLine1>
+    <StreetAddressCity>San Francisco</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94111</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>415-956-2341</TelephoneTelephoneNo>
+    <InternetAddressURI>http://www.tokyoexpresslunch.com</InternetAddressURI>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-04-24T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>20</ContactSequenceOrderId>
+    <ContactCompany>Australian Consulate</ContactCompany>
+    <StreetAddressAddressLine1>625 Market Street, Suite 200</StreetAddressAddressLine1>
+    <StreetAddressCity>San Francisco</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94105-3304</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>415-536-1970</TelephoneTelephoneNo>
+    <InternetAddressURI>http://www.austemb.org/consular/usa_posts.htm</InternetAddressURI>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-04-24T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>20</ContactSequenceOrderId>
+    <ContactCompany>Australian Consulate</ContactCompany>
+    <StreetAddressAddressLine1>625 Market Street, Suite 200</StreetAddressAddressLine1>
+    <StreetAddressCity>San Francisco</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94105-3304</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>415-536-1982</TelephoneTelephoneNo>
+    <InternetAddressURI>http://www.austemb.org/consular/usa_posts.htm</InternetAddressURI>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-04-27T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>21</ContactSequenceOrderId>
+    <ContactCompany>Sugandh The Fragrance</ContactCompany>
+    <StreetAddressAddressLine1>4515 Rosewood Dr, Suite 700</StreetAddressAddressLine1>
+    <StreetAddressCity>Pleasanton</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94588</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>925-469-0491</TelephoneTelephoneNo>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-04-27T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>21</ContactSequenceOrderId>
+    <ContactCompany>Sugandh The Fragrance</ContactCompany>
+    <StreetAddressAddressLine1>4515 Rosewood Dr, Suite 700</StreetAddressAddressLine1>
+    <StreetAddressCity>Pleasanton</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94588</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>925-469-0432</TelephoneTelephoneNo>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-04-28T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>22</ContactSequenceOrderId>
+    <ContactCompany>Todai Restaurant</ContactCompany>
+    <StreetAddressAddressLine1>2249 Stoneridge Mall Upper Level 17 Purple Lot C</StreetAddressAddressLine1>
+    <StreetAddressCity>Pleasanton</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94588</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>925-460-9100</TelephoneTelephoneNo>
+    <InternetAddressURI>http://www.todai.com</InternetAddressURI>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-04-28T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>22</ContactSequenceOrderId>
+    <ContactCompany>Todai Restaurant</ContactCompany>
+    <StreetAddressAddressLine1>2249 Stoneridge Mall Upper Level 17 Purple Lot C</StreetAddressAddressLine1>
+    <StreetAddressCity>Pleasanton</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94588</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>925-460-9101</TelephoneTelephoneNo>
+    <InternetAddressURI>http://www.todai.com</InternetAddressURI>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-05-04T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>23</ContactSequenceOrderId>
+    <ContactFirstName>Jim</ContactFirstName>
+    <ContactLastName>Bretze</ContactLastName>
+    <ContactCompany>Our Lady of Lourdes Church</ContactCompany>
+    <StreetAddressAddressLine1>2808 Lakeshore Avenue</StreetAddressAddressLine1>
+    <StreetAddressCity>Oakland</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94610</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>510-451-1790</TelephoneTelephoneNo>
+    <InternetAddressURI>http://www.lourdesoakland.com</InternetAddressURI>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-05-04T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>23</ContactSequenceOrderId>
+    <ContactFirstName>Jim</ContactFirstName>
+    <ContactLastName>Bretze</ContactLastName>
+    <ContactCompany>Our Lady of Lourdes Church</ContactCompany>
+    <StreetAddressAddressLine1>2808 Lakeshore Avenue</StreetAddressAddressLine1>
+    <StreetAddressCity>Oakland</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94610</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>510-893-6443</TelephoneTelephoneNo>
+    <InternetAddressURI>http://www.lourdesoakland.com</InternetAddressURI>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-05-04T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>24</ContactSequenceOrderId>
+    <ContactFirstName>Dennis</ContactFirstName>
+    <ContactLastName>Barber </ContactLastName>
+    <ContactCompany>Albertsons</ContactCompany>
+    <StreetAddressAddressLine1>3250 Lake Shore Boulevard</StreetAddressAddressLine1>
+    <StreetAddressCity>Oakland</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94610</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>510-836-1127</TelephoneTelephoneNo>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-05-04T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>25</ContactSequenceOrderId>
+    <ContactCompany>Greek Orthodox Church of the Ascension</ContactCompany>
+    <StreetAddressAddressLine1>4700 Lincoln Avenue</StreetAddressAddressLine1>
+    <StreetAddressCity>Oakland</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94602</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <InternetAddressURI>http://www.ascensioncathedral.org</InternetAddressURI>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-05-04T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>26</ContactSequenceOrderId>
+    <ContactCompany>The Church of Jesus Christ of Latter-day Saints</ContactCompany>
+    <StreetAddressAddressLine1>4766 Lincoln Avenue</StreetAddressAddressLine1>
+    <StreetAddressCity>Oakland</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94602-2535</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>510- 531-1475</TelephoneTelephoneNo>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-05-04T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>26</ContactSequenceOrderId>
+    <ContactCompany>The Church of Jesus Christ of Latter-day Saints</ContactCompany>
+    <StreetAddressAddressLine1>820 Walnut Avenue</StreetAddressAddressLine1>
+    <StreetAddressCity>Fremont</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94538</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>510- 531-1475</TelephoneTelephoneNo>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-05-04T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>27</ContactSequenceOrderId>
+    <ContactCompany>Guadalajara Restaurant</ContactCompany>
+    <StreetAddressAddressLine1>1001 Fruitvale Avenue</StreetAddressAddressLine1>
+    <StreetAddressCity>Oakland</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94601</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>510-533-7194</TelephoneTelephoneNo>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-05-04T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>27</ContactSequenceOrderId>
+    <ContactCompany>Guadalajara Restaurant</ContactCompany>
+    <StreetAddressAddressLine1>1001 Fruitvale Avenue</StreetAddressAddressLine1>
+    <StreetAddressCity>Oakland</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94601</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>510-533-7296</TelephoneTelephoneNo>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2002-12-08T00:00:00.0000000-08:00</ContactDated>
+    <ContactSequenceOrderId>28</ContactSequenceOrderId>
+    <ContactCompany>Taste of China Bricktown</ContactCompany>
+    <StreetAddressAddressLine1>9 E. Sheridan</StreetAddressAddressLine1>
+    <StreetAddressCity>Oklahoma</StreetAddressCity>
+    <StreetAddressState>OK</StreetAddressState>
+    <StreetAddressZipCode>73104</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>405-232-6668</TelephoneTelephoneNo>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2002-12-08T00:00:00.0000000-08:00</ContactDated>
+    <ContactSequenceOrderId>28</ContactSequenceOrderId>
+    <ContactCompany>Taste of China Bricktown</ContactCompany>
+    <StreetAddressAddressLine1>9 E. Sheridan</StreetAddressAddressLine1>
+    <StreetAddressCity>Oklahoma</StreetAddressCity>
+    <StreetAddressState>OK</StreetAddressState>
+    <StreetAddressZipCode>73104</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>405-232-6567</TelephoneTelephoneNo>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-05-17T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>29</ContactSequenceOrderId>
+    <ContactCompany>Yuri Japanese Restaurant</ContactCompany>
+    <StreetAddressAddressLine1>3810 Mowry Avenue</StreetAddressAddressLine1>
+    <StreetAddressCity>Fremont</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94538</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>510-945-6701</TelephoneTelephoneNo>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-05-17T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>30</ContactSequenceOrderId>
+    <ContactCompany>Sneha</ContactCompany>
+    <StreetAddressAddressLine1>1214 Apollo Wat (off Lawrence Expressway), Suite 404B</StreetAddressAddressLine1>
+    <StreetAddressCity>Sunnyvale</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94086</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>408-736-2720</TelephoneTelephoneNo>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-05-17T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>30</ContactSequenceOrderId>
+    <ContactCompany>Sneha</ContactCompany>
+    <StreetAddressAddressLine1>1214 Apollo Wat (off Lawrence Expressway), Suite 404B</StreetAddressAddressLine1>
+    <StreetAddressCity>Sunnyvale</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94086</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>408-736-1948</TelephoneTelephoneNo>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-05-17T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>31</ContactSequenceOrderId>
+    <ContactCompany>Factory Brand Shoes</ContactCompany>
+    <StreetAddressAddressLine1>Great Mall of Bay Area. 456 Great Mall Drive</StreetAddressAddressLine1>
+    <StreetAddressCity>Milpitas</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>95035</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>408-942-0535</TelephoneTelephoneNo>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-05-17T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>32</ContactSequenceOrderId>
+    <ContactCompany>Adidas</ContactCompany>
+    <InternetAddressURI>http://www.adidas.com</InternetAddressURI>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-05-17T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>33</ContactSequenceOrderId>
+    <ContactCompany>Skechers</ContactCompany>
+    <InternetAddressURI>http://www.skechers.com</InternetAddressURI>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-05-18T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>34</ContactSequenceOrderId>
+    <ContactCompany>Whirlpool Corporation</ContactCompany>
+    <StreetAddressAddressLine1 />
+    <StreetAddressCity>Benton Harbor</StreetAddressCity>
+    <StreetAddressState>MI</StreetAddressState>
+    <StreetAddressZipCode>49022</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-06-06T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>35</ContactSequenceOrderId>
+    <ContactCompany>Abu Bakr Siddiq Mosque. Afghan Refugee Islamic Community.</ContactCompany>
+    <StreetAddressAddressLine1>29414 Mission Boulevard</StreetAddressAddressLine1>
+    <StreetAddressCity>Hayward</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>95444</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>510-582-2730</TelephoneTelephoneNo>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-06-06T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>35</ContactSequenceOrderId>
+    <ContactCompany>Abu Bakr Siddiq Mosque. Afghan Refugee Islamic Community.</ContactCompany>
+    <StreetAddressAddressLine1>29414 Mission Boulevard</StreetAddressAddressLine1>
+    <StreetAddressCity>Hayward</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>95444</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>510-582-2791</TelephoneTelephoneNo>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-05-26T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>36</ContactSequenceOrderId>
+    <ContactCompany>Highway 84 Thornton Exit</ContactCompany>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2002-12-31T00:00:00.0000000-08:00</ContactDated>
+    <ContactSequenceOrderId>37</ContactSequenceOrderId>
+    <ContactCompany>Apostolic Commission Church of Jesus Christ</ContactCompany>
+    <StreetAddressAddressLine1>4251 Peralta Boulevard</StreetAddressAddressLine1>
+    <StreetAddressCity>Fremont</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94544</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>510-797-7272</TelephoneTelephoneNo>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2002-12-31T00:00:00.0000000-08:00</ContactDated>
+    <ContactSequenceOrderId>37</ContactSequenceOrderId>
+    <ContactCompany>Apostolic Commission Church of Jesus Christ</ContactCompany>
+    <StreetAddressAddressLine1>4251 Peralta Boulevard</StreetAddressAddressLine1>
+    <StreetAddressCity>Fremont</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94544</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>510-471-9044</TelephoneTelephoneNo>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-07-06T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>38</ContactSequenceOrderId>
+    <ContactCompany>Gold Mountain Sagely Monastery</ContactCompany>
+    <StreetAddressAddressLine1>800 Sacremento Street</StreetAddressAddressLine1>
+    <StreetAddressCity>San Francisco</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94108</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>415-421-6117 </TelephoneTelephoneNo>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-07-06T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>39</ContactSequenceOrderId>
+    <ContactCompany>Floating Sushi Boat Restaurant</ContactCompany>
+    <StreetAddressAddressLine1>700 Grant Avenue</StreetAddressAddressLine1>
+    <StreetAddressCity>San Francisco</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94108</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>415-956-8318</TelephoneTelephoneNo>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-07-06T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>39</ContactSequenceOrderId>
+    <ContactCompany>Floating Sushi Boat Restaurant</ContactCompany>
+    <StreetAddressAddressLine1>700 Grant Avenue</StreetAddressAddressLine1>
+    <StreetAddressCity>San Francisco</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94108</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>415-956-2086</TelephoneTelephoneNo>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-07-06T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>39</ContactSequenceOrderId>
+    <ContactCompany>Floating Sushi Boat Restaurant</ContactCompany>
+    <StreetAddressAddressLine1>700 Grant Avenue</StreetAddressAddressLine1>
+    <StreetAddressCity>San Francisco</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94108</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>415-956-6887</TelephoneTelephoneNo>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-07-12T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>40</ContactSequenceOrderId>
+    <ContactCompany>Le Cheval Restaurant</ContactCompany>
+    <StreetAddressAddressLine1>1007 Clay Street</StreetAddressAddressLine1>
+    <StreetAddressCity>Oakland</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94612</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>510-763-8495</TelephoneTelephoneNo>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-07-12T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>40</ContactSequenceOrderId>
+    <ContactCompany>Le Cheval Restaurant</ContactCompany>
+    <StreetAddressAddressLine1>1007 Clay Street</StreetAddressAddressLine1>
+    <StreetAddressCity>Oakland</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94612</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>510-763-0555</TelephoneTelephoneNo>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-07-16T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>41</ContactSequenceOrderId>
+    <ContactCompany>Anhing Corporation</ContactCompany>
+    <StreetAddressAddressLine1 />
+    <StreetAddressCity>Los Angeles</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>90031</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>213-221-8003</TelephoneTelephoneNo>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-08-02T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>42</ContactSequenceOrderId>
+    <ContactCompany>China Harbour Seafood Restaurant</ContactCompany>
+    <TheWordSequenceOrderId>17</TheWordSequenceOrderId>
+    <TheWordTitle>For a season. Oluwa ose lojoko, mu iwe e, lo je. I thank God for the Oranjes.</TheWordTitle>
+    <StreetAddressAddressLine1>34755 Ardenwood Boulevard</StreetAddressAddressLine1>
+    <StreetAddressCity>Fremont</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94555</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>510-797-7181</TelephoneTelephoneNo>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-08-02T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>42</ContactSequenceOrderId>
+    <ContactCompany>China Harbour Seafood Restaurant</ContactCompany>
+    <TheWordSequenceOrderId>17</TheWordSequenceOrderId>
+    <TheWordTitle>For a season. Oluwa ose lojoko, mu iwe e, lo je. I thank God for the Oranjes.</TheWordTitle>
+    <StreetAddressAddressLine1>34755 Ardenwood Boulevard</StreetAddressAddressLine1>
+    <StreetAddressCity>Fremont</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94555</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>510-797-7186</TelephoneTelephoneNo>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-08-03T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>43</ContactSequenceOrderId>
+    <ContactCompany>Ark of Grace -ARCA DE GRACIA</ContactCompany>
+    <TheWordSequenceOrderId>20</TheWordSequenceOrderId>
+    <TheWordTitle>I AM A God that understands. Trained in the act of God.</TheWordTitle>
+    <StreetAddressAddressLine1>5970 Thornton Avenue</StreetAddressAddressLine1>
+    <StreetAddressCity>Newark</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94560-3829</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2002-11-06T00:00:00.0000000-08:00</ContactDated>
+    <ContactSequenceOrderId>44</ContactSequenceOrderId>
+    <ContactCompany>Christian Layman Church</ContactCompany>
+    <StreetAddressAddressLine1>278 Grand Avenue</StreetAddressAddressLine1>
+    <StreetAddressCity>Oakland</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94610</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <InternetAddressURI>http://www.christianlayman.org</InternetAddressURI>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-08-08T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>45</ContactSequenceOrderId>
+    <ContactCompany>Hayward Public Library</ContactCompany>
+    <TheWordSequenceOrderId>30</TheWordSequenceOrderId>
+    <TheWordTitle>(Let it be me, LORD) Let it be You, LORD. Cleansing. Keeping the generation. Sometimes somebody comes around that changes everything. Ma je o da po. Oh LORD, Rescue me.</TheWordTitle>
+    <StreetAddressAddressLine1>835C Street</StreetAddressAddressLine1>
+    <StreetAddressCity>Hayward</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94541</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-02-14T00:00:00.0000000-08:00</ContactDated>
+    <ContactSequenceOrderId>46</ContactSequenceOrderId>
+    <ContactCompany>Pamir Food Market</ContactCompany>
+    <StreetAddressAddressLine1>37422-37346 Fremont Boulevard</StreetAddressAddressLine1>
+    <StreetAddressCity>Fremont</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94536</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>510-790-7015</TelephoneTelephoneNo>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-08-14T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>47</ContactSequenceOrderId>
+    <ContactCompany>Maiwand Market</ContactCompany>
+    <TheWordSequenceOrderId>43</TheWordSequenceOrderId>
+    <TheWordTitle>Thank you God for everything, thank you for the wonderful dreams.</TheWordTitle>
+    <StreetAddressAddressLine1>37235 Fremont Boulevard</StreetAddressAddressLine1>
+    <StreetAddressCity>Fremont</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94536</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>510-796-3215</TelephoneTelephoneNo>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-08-14T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>47</ContactSequenceOrderId>
+    <ContactCompany>Maiwand Market</ContactCompany>
+    <TheWordSequenceOrderId>43</TheWordSequenceOrderId>
+    <TheWordTitle>Thank you God for everything, thank you for the wonderful dreams.</TheWordTitle>
+    <StreetAddressAddressLine1>37235 Fremont Boulevard</StreetAddressAddressLine1>
+    <StreetAddressCity>Fremont</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94536</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>510-796-7091</TelephoneTelephoneNo>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-06-28T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>48</ContactSequenceOrderId>
+    <ContactCompany>Adobe Hills</ContactCompany>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-08-24T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>49</ContactSequenceOrderId>
+    <ContactCompany>First Assembly of God</ContactCompany>
+    <StreetAddressAddressLine1>4766 Thornton Avenue</StreetAddressAddressLine1>
+    <StreetAddressCity>Fremont</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94536</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>510-744-2233</TelephoneTelephoneNo>
+    <InternetAddressURI>http://www.fremontfirstassembly.org</InternetAddressURI>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-08-29T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>50</ContactSequenceOrderId>
+    <ContactCompany>Uncle Chong</ContactCompany>
+    <TheWordSequenceOrderId>71</TheWordSequenceOrderId>
+    <TheWordTitle>Can I tell You, a story, today, can I tell You what it feels like to be with You?</TheWordTitle>
+    <StreetAddressAddressLine1>36659 Fremont Boulevard</StreetAddressAddressLine1>
+    <StreetAddressCity>Fremont</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94536</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>510-792-1668</TelephoneTelephoneNo>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-08-29T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>50</ContactSequenceOrderId>
+    <ContactCompany>Uncle Chong</ContactCompany>
+    <TheWordSequenceOrderId>71</TheWordSequenceOrderId>
+    <TheWordTitle>Can I tell You, a story, today, can I tell You what it feels like to be with You?</TheWordTitle>
+    <StreetAddressAddressLine1>36659 Fremont Boulevard</StreetAddressAddressLine1>
+    <StreetAddressCity>Fremont</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94536</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>510-792-2878</TelephoneTelephoneNo>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-08-30T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>51</ContactSequenceOrderId>
+    <ContactCompany>Boston Market Fremont Hub.</ContactCompany>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-09-06T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>52</ContactSequenceOrderId>
+    <ContactCompany>Sonoma Chicken Coop</ContactCompany>
+    <TheWordSequenceOrderId>93</TheWordSequenceOrderId>
+    <TheWordTitle>Mi oni ko sa.</TheWordTitle>
+    <StreetAddressAddressLine1>31 N. Market Street @ San Pedro Square</StreetAddressAddressLine1>
+    <StreetAddressCity>San Jose</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>95113</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>408-287-4098</TelephoneTelephoneNo>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-09-06T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>52</ContactSequenceOrderId>
+    <ContactCompany>Sonoma Chicken Coop</ContactCompany>
+    <TheWordSequenceOrderId>93</TheWordSequenceOrderId>
+    <TheWordTitle>Mi oni ko sa.</TheWordTitle>
+    <StreetAddressAddressLine1>31 N. Market Street @ San Pedro Square</StreetAddressAddressLine1>
+    <StreetAddressCity>San Jose</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>95113</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>408-287-4083</TelephoneTelephoneNo>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2002-09-21T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>53</ContactSequenceOrderId>
+    <ContactCompany>Thornton Avenue Baptist Church</ContactCompany>
+    <TheWordSequenceOrderId>96</TheWordSequenceOrderId>
+    <TheWordTitle>Their is a difference between singing I love You, and standing practicing I love You.</TheWordTitle>
+    <StreetAddressAddressLine1>4500 Thornton Avenue</StreetAddressAddressLine1>
+    <StreetAddressCity>Fremont</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94560</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-09-13T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>54</ContactSequenceOrderId>
+    <ContactCompany>Mimosa</ContactCompany>
+    <TheWordSequenceOrderId>119</TheWordSequenceOrderId>
+    <TheWordTitle>Ati fun iwe.</TheWordTitle>
+    <StreetAddressAddressLine1>462 Santa Clara Avenue</StreetAddressAddressLine1>
+    <StreetAddressCity>Oakland</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode />
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>510-465-2948</TelephoneTelephoneNo>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-09-13T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>55</ContactSequenceOrderId>
+    <ContactCompany>Kentucky Fried Chicken (KFC)</ContactCompany>
+    <TheWordSequenceOrderId>119</TheWordSequenceOrderId>
+    <TheWordTitle>Ati fun iwe.</TheWordTitle>
+    <StreetAddressAddressLine1>470 Lake Park Avenue</StreetAddressAddressLine1>
+    <StreetAddressCity>Oakland</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94610</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-09-21T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>56</ContactSequenceOrderId>
+    <ContactCompany>Newark Church of Christ</ContactCompany>
+    <TheWordSequenceOrderId>138</TheWordSequenceOrderId>
+    <TheWordTitle>Eyimota</TheWordTitle>
+    <StreetAddressAddressLine1>5880 Thornton Avenue</StreetAddressAddressLine1>
+    <StreetAddressCity>Newark</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94560</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>510-793-3060</TelephoneTelephoneNo>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-09-25T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>57</ContactSequenceOrderId>
+    <ContactFirstName>Junichiro</ContactFirstName>
+    <ContactLastName>Koizumi</ContactLastName>
+    <TheWordSequenceOrderId>151</TheWordSequenceOrderId>
+    <TheWordTitle>I thank You for being Jesus, I thank You for being My LORD.</TheWordTitle>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-09-26T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>58</ContactSequenceOrderId>
+    <ContactCompany>California State University Hayward</ContactCompany>
+    <TheWordSequenceOrderId>153</TheWordSequenceOrderId>
+    <TheWordTitle>How blessed is the Man that has made God His shelter? I AM so glad You so know Me. Everyday I AM so glad its Jesus. Everyday I AM so glad its Christ. Everyday the day is crying, the heaven is singing, Send the Savior's Son.</TheWordTitle>
+    <InternetAddressURI>http://www.csuhayward.edu</InternetAddressURI>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-09-28T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>59</ContactSequenceOrderId>
+    <ContactCompany>Denny's</ContactCompany>
+    <TheWordSequenceOrderId>161</TheWordSequenceOrderId>
+    <TheWordTitle>Whatever You will lose, You will gain. Please keep us in Your prayers and remember what needs to be done and what has to be done in this pityful time.</TheWordTitle>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-09-30T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>60</ContactSequenceOrderId>
+    <ContactCompany>Kingdom Hall of Jehovah's Witness Salon Del Reino De Los Testigos De Jehova</ContactCompany>
+    <TheWordSequenceOrderId>168</TheWordSequenceOrderId>
+    <TheWordTitle>God, I have finished eating Your food.</TheWordTitle>
+    <StreetAddressAddressLine1>6536 Thornton Avenue</StreetAddressAddressLine1>
+    <StreetAddressCity>Newark</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94560</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-09-30T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>61</ContactSequenceOrderId>
+    <ContactCompany>Rosales Restaurant Salvadorian and Mexican Food</ContactCompany>
+    <TheWordSequenceOrderId>168</TheWordSequenceOrderId>
+    <TheWordTitle>God, I have finished eating Your food.</TheWordTitle>
+    <StreetAddressAddressLine1>7036 Thornton Avenue</StreetAddressAddressLine1>
+    <StreetAddressCity>Newark</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94560</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>510-793-6545</TelephoneTelephoneNo>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-10-01T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>62</ContactSequenceOrderId>
+    <ContactCompany>Sun Microsystems</ContactCompany>
+    <TheWordSequenceOrderId>172</TheWordSequenceOrderId>
+    <TheWordTitle>Oh LORD, Is their good, is their holiness, is their You by My side.</TheWordTitle>
+    <StreetAddressAddressLine1>7777 Gateway Boulevard</StreetAddressAddressLine1>
+    <StreetAddressCity>Newark</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94560</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <InternetAddressURI>http://www.sun.com</InternetAddressURI>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2002-06-18T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>63</ContactSequenceOrderId>
+    <ContactCompany>Endocrine Technologies</ContactCompany>
+    <TheWordSequenceOrderId>172</TheWordSequenceOrderId>
+    <TheWordTitle>Oh LORD, Is their good, is their holiness, is their You by My side.</TheWordTitle>
+    <InternetAddressURI>http://www.endocrineTech.com</InternetAddressURI>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-10-01T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>64</ContactSequenceOrderId>
+    <ContactCompany>New Taste of India</ContactCompany>
+    <TheWordSequenceOrderId>173</TheWordSequenceOrderId>
+    <TheWordTitle>How wonderful You Are Oh LORD, How wonderful You Are My LORD and Savior.
+ God never forget Me.
+ My Life has never changed.
+ Oh LORD, all mighty.
+ Uniquely Today.
+ The people that had to make room.
+ This is My covenant with You.
+ For to live is to die.</TheWordTitle>
+    <StreetAddressAddressLine1>5144 Mowry Avenue</StreetAddressAddressLine1>
+    <StreetAddressCity>Fremont</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94538</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-10-03T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>65</ContactSequenceOrderId>
+    <ContactCompany>China AA Buffet</ContactCompany>
+    <TheWordSequenceOrderId>181</TheWordSequenceOrderId>
+    <TheWordTitle>Your gentleness is good. LORD be good to Me. LORD be kind to Me. For You are a good God.</TheWordTitle>
+    <StreetAddressAddressLine1>24100 Mission Boulevard</StreetAddressAddressLine1>
+    <StreetAddressCity>Hayward</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94544</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>510-690-0888</TelephoneTelephoneNo>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-10-03T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>65</ContactSequenceOrderId>
+    <ContactCompany>China AA Buffet</ContactCompany>
+    <TheWordSequenceOrderId>181</TheWordSequenceOrderId>
+    <TheWordTitle>Your gentleness is good. LORD be good to Me. LORD be kind to Me. For You are a good God.</TheWordTitle>
+    <StreetAddressAddressLine1>24100 Mission Boulevard</StreetAddressAddressLine1>
+    <StreetAddressCity>Hayward</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94544</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>510-690-1368</TelephoneTelephoneNo>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-10-04T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>66</ContactSequenceOrderId>
+    <ContactCompany>Dublin Sports Grounds</ContactCompany>
+    <TheWordSequenceOrderId>183</TheWordSequenceOrderId>
+    <TheWordTitle>That's Your serve, what are You calling for?
+ His glory endures forever.
+ So much in tune with where you are.
+ For God so loves Me, I AM so happy.
+ This was the night I saw you.
+ I haven't lost any one.
+ John Hopkins University.
+ As You work with everything.
+ You know You've done what You need to do today.
+ As it was blood falling from his shoulders.
+ God, Let Me count Your blessings.
+ Tell your friends.
+ Let me see your God through me.
+ It's the LORD's time.</TheWordTitle>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-10-04T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>67</ContactSequenceOrderId>
+    <ContactCompany>Dublin Library</ContactCompany>
+    <TheWordSequenceOrderId>183</TheWordSequenceOrderId>
+    <TheWordTitle>That's Your serve, what are You calling for?
+ His glory endures forever.
+ So much in tune with where you are.
+ For God so loves Me, I AM so happy.
+ This was the night I saw you.
+ I haven't lost any one.
+ John Hopkins University.
+ As You work with everything.
+ You know You've done what You need to do today.
+ As it was blood falling from his shoulders.
+ God, Let Me count Your blessings.
+ Tell your friends.
+ Let me see your God through me.
+ It's the LORD's time.</TheWordTitle>
+    <StreetAddressAddressLine1>200 Civic Plaza</StreetAddressAddressLine1>
+    <StreetAddressCity>Dublin</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode>94568</StreetAddressZipCode>
+    <StreetAddressCountry>USA</StreetAddressCountry>
+    <TelephoneTelephoneNo>925-828-1315</TelephoneTelephoneNo>
+  </ViewContact>
+  <ViewContact>
+    <ContactDated>2003-10-07T00:00:00.0000000-07:00</ContactDated>
+    <ContactSequenceOrderId>68</ContactSequenceOrderId>
+    <ContactCompany>Washington High School</ContactCompany>
+    <TheWordSequenceOrderId>187</TheWordSequenceOrderId>
+    <TheWordTitle>Be unto Me.</TheWordTitle>
+    <StreetAddressAddressLine1>38442 Fremont Boulevard</StreetAddressAddressLine1>
+    <StreetAddressCity>Fremont</StreetAddressCity>
+    <StreetAddressState>CA</StreetAddressState>
+    <StreetAddressZipCode />
+    <StreetAddressCountry>USA</StreetAddressCountry>
+  </ViewContact>
+</ViewContact>

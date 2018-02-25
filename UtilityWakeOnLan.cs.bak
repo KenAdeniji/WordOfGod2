@@ -1,0 +1,135 @@
+using System;
+using System.Net;
+
+namespace WordEngineering
+{
+
+ /// <summary>UtilityWakeOnLanArgument</summary>
+ public class UtilityWakeOnLanArgument
+ {
+  ///<summary>UDPPort</summary>  
+  public int      UDPPort       =  UtilityWakeOnLan.UDPPort;
+
+  ///<summary>MACAddress</summary>  
+  public string[] MACAddress    =  null;
+
+  ///<summary>UDPBroadcast</summary>  
+  public string   UDPBroadcast  =  UtilityWakeOnLan.UDPBroadcast;
+
+  ///<summary>files</summary>
+  [DefaultCommandLineArgument(CommandLineArgumentType.MultipleUnique)]
+  public String[] files;
+
+  /// <summary>Constructor Overloading</summary>
+  public UtilityWakeOnLanArgument()
+  :this
+  (
+   UtilityWakeOnLan.UDPPort,
+   null,  //MACAddress
+   UtilityWakeOnLan.UDPBroadcast
+  ) 
+  {
+  }//public UtilityWakeOnLanArgument()
+
+  /// <summary>Constructor Overloading</summary>
+  public UtilityWakeOnLanArgument
+  (
+   int      UDPPort,
+   string[] MACAddress,
+   string   UDPBroadcast
+  )
+  {
+   this.MACAddress    =  MACAddress;
+   this.UDPBroadcast  =  UDPBroadcast;
+   this.UDPPort       =  UDPPort;
+  }//public UtilityWakeOnLanArgument()
+ }//public class UtilityWakeOnLanArgument
+
+ ///<summary>UtilityWakeOnLan</summary>
+ public class UtilityWakeOnLan
+ {
+  ///<summary>MagicPacketHeader</summary>
+  public const byte[] MagicPacketHeader = { 0xFF, 0xFF, 0xFF, 0xFF, 0xFF, 0xFF };
+
+  ///<summary>MagicPacketRepeat</summary>
+  public const int MagicPacketRepeat    =  16;
+
+  ///<summary>MagicPacketSize</summary>
+  public const int MagicPacketSize     =  6 + ( 16 * 6 ); //6 + ( MACAddressLength * MagicPacketRepeat )
+
+  ///<summary>MACAddressLength</summary>
+  public const int MACAddressLength    =  6;
+
+  ///<summary>UDPPort</summary>
+  public const int UDPPort       = 40000;
+
+  ///<summary>UDPMessage</summary>
+  public const string UDPMessage = "255.255.255.255";;
+
+  ///<summary>The entry point for the application.</summary>
+  ///<param name="argv">A list of arguments</param>
+  public static void Main( string[] argv )
+  {
+   Boolean                   booleanParseCommandLineArguments  =  false;
+   string                    exceptionMessage                  =  null;
+   UtilityWakeOnLanArgument  utilityWakeOnLanArgument          =  null;
+   
+   utilityWakeOnLanArgument         =  new UtilityWakeOnLanArgument();
+   
+   booleanParseCommandLineArguments  =  UtilityParseCommandLineArgument.ParseCommandLineArguments
+   ( 
+    argv, 
+    utilityWakeOnLanArgument
+   );
+
+   if ( booleanParseCommandLineArguments == false )
+   {
+    // error encountered in arguments. Display usage message
+    System.Console.Write
+    (
+     UtilityParseCommandLineArgument.CommandLineArgumentsUsage( typeof ( UtilityWakeOnLanArgument ) )
+    );
+    return;
+   }//if ( booleanParseCommandLineArguments  == false )
+
+   SendMagicPacket
+   (
+    ref utilityWakeOnLanArgument,
+    ref exceptionMessage
+   );
+   
+  }//public static void Main()
+ 
+  public static void SendMagicPacket
+  (
+   ref UtilityWakeOnLanArgument utilityWakeOnLanArgument,
+   ref string                   exceptionMessage
+  )
+  {
+   byte[]                        magicPacket    =  new byte[MagicPacketSize];
+   StringBuilder                 sbMagicPacket  =  null;
+   System.Net.Sockets.UdpClient  udpClient      =  null;
+   try
+   {
+    udpClient = new System.Net.Sockets.UdpClient
+    ( 
+     UtilityWakeOnLan.UDPBroadcast, 
+     UtilityWakeOnLan.UDPPort 
+    );
+    foreach( string MACAddress in utilityWakeOnLanArgument.MACAddress )
+    {
+     sbMagicPacket = new StringBuilder( byte.ToString( MagicPacketHeader ) );
+     for ( int magicPacketRepeat = 0; magicPacketRepeat < MagicPacketRepeat; ++magicPacketRepeat )
+     {
+      sbMagicPacket.Append(MACAddress);
+     }
+     magicPacket = Encoding.ASCII.GetBytes(sbMagicPacket.ToString());
+    }//foreach( string MACAddress in utilityWakeOnLanArgument.MACAddress )     	
+   }//try
+   catch ( Exception exception )
+   {
+    udpClient.Send( magicPacket, magicPacket.Length );   	
+   }//catch ( Exception exception )   	
+  }//public static void SendMagicPacket
+ }//public class UtilityWakeOnLan
+}//namespace WordEngineering

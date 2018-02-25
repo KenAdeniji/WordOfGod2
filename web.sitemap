@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<siteMap>
+ <siteMapNode url="~/Comforter_-_WordEngineeringIndex.xml" title="Index">
+  <siteMapNode url="~/Comforter_-_20040608WordEngineeringUtilityIndex.xml" title="Utility"/>
+  <siteMapNode url="~/Comforter_-_20041224WordEngineeringIndexURI.xml" title="URI"/> 
+  <siteMapNode url="~/ContentSimplePage.aspx" title="Content Simple Page"/>   
+ </siteMapNode>
+</siteMap>
+
