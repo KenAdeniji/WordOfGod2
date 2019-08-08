@@ -46,8 +46,8 @@ namespace WordEngineering
    String[] argv
   )
   {
-    
-  }//static void Main( String[] argv ) 
+		System.Console.WriteLine(PrefixProtocol(argv[0]));
+  }
 
   ///<summary>PrefixProtocol</summary>
   public static string PrefixProtocol
@@ -55,7 +55,7 @@ namespace WordEngineering
    string URI
   ) 
   {
-   if ( URI.IndexOf('@') < URI.IndexOf('.') )
+   if ( URI.IndexOf('@') > -1 && URI.IndexOf('@') < URI.IndexOf('.') )
    {
     return("mailto:" + URI);
    }
