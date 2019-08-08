@@ -28,7 +28,6 @@ namespace WordEngineering
 
  ///<summary>UtilityProtocol</summary>
  ///<remarks>
- ///	2019-08-08T15:00:00 @ precede .
  ///</remarks>
  public class UtilityProtocol
  {
@@ -55,7 +54,7 @@ namespace WordEngineering
    string URI
   ) 
   {
-   if ( URI.IndexOf('@') < URI.IndexOf('.') )
+   if ( URI.IndexOf('@') > -1 )
    {
     return("mailto:" + URI);
    }
